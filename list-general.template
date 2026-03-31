@@ -1,4 +1,3 @@
-# В этом файле можете включать сервисы, которые нуждаются в фильтрации
 include:whatsapp
 include:telegram
 include:discord
@@ -12,8 +11,6 @@ include:ovh
 include:vrcdn
 include:stackpath
 include:stackexchange
-include:vivo
-include:xiaomi
 include:viber
 include:xda
 include:roblox
@@ -27,6 +24,7 @@ include:snapchat
 include:quora
 include:linkedin
 include:patreon
+include:xda
 include:x
 
 include:scaleway
@@ -35,6 +33,7 @@ include:vultr
 include:melbicom
 include:cloudflare
 include:amazon
+include:akamai
 include:hetzner
 include:g-core
 include:google-cloud
@@ -61,8 +60,7 @@ include:symantec
 include:letsencrypt
 
 # Google
-app-measurement.com
-doubleclick.net
+play.google.com
 
 # Found with help --hostlist-auto
 o.pki.goog

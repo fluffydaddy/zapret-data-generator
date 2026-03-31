@@ -44,85 +44,89 @@ def load_asn_list(path):
 
     return result
 
-ASN_LIST = load_asn_list("asn_list.jsonc")
+def main():
+    ASN_LIST = load_asn_list("asn_list.jsonc")
 
-API_URL = "https://stat.ripe.net/data/announced-prefixes/data.json"
-TIMEOUT = 15  # секунд
+    API_URL = "https://stat.ripe.net/data/announced-prefixes/data.json"
+    TIMEOUT = 15  # секунд
 
-DESTINATION = "data/ipset"
+    DESTINATION = "data/ipset"
 
-# Added before original filename. e.g. ipset-
-FILE_PREFIX = ""
+    # Added before original filename. e.g. ipset-
+    FILE_PREFIX = ""
 
-# Added after original filename. e.g. .txt
-FILE_SUFFIX = ""
+    # Added after original filename. e.g. .txt
+    FILE_SUFFIX = ""
 
-for service in ASN_LIST:
-    if not service.enabled:
-        continue
-    
-    v4_all = set()
-    v6_all = set()
+    for service in ASN_LIST:
+        if not service.enabled:
+            continue
+        
+        v4_all = set()
+        v6_all = set()
 
-    print(f"[+] Обработка {service.name} ({service.asn}) ...", flush=True)
+        print(f"[+] Обработка {service.name} ({service.asn}) ...", flush=True)
 
-    for asn in service.asn:
-        try:
-            r = requests.get(
-                API_URL,
-                params={"resource": asn, "min_peers_seeing": 1},
-                timeout=TIMEOUT
-            )
-            r.raise_for_status()
-            data = r.json().get("data", {}).get("prefixes", [])
-            count = 0
+        for asn in service.asn:
+            try:
+                r = requests.get(
+                    API_URL,
+                    params={"resource": asn, "min_peers_seeing": 1},
+                    timeout=TIMEOUT
+                )
+                r.raise_for_status()
+                data = r.json().get("data", {}).get("prefixes", [])
+                count = 0
 
-            for p in data:
-                prefix = p.get("prefix")
-                if not prefix:
-                    continue
-                try:
-                    net = ipaddress.ip_network(prefix, strict=False)
-                    if net.prefixlen == 0:
+                for p in data:
+                    prefix = p.get("prefix")
+                    if not prefix:
                         continue
-                    if not net.is_global:
+                    try:
+                        net = ipaddress.ip_network(prefix, strict=False)
+                        if net.prefixlen == 0:
+                            continue
+                        if not net.is_global:
+                            continue
+                        if net.version == 4:
+                            v4_all.add(net)
+                        else:
+                            v6_all.add(net)
+                        count += 1
+                    except Exception:
                         continue
-                    if net.version == 4:
-                        v4_all.add(net)
-                    else:
-                        v6_all.add(net)
-                    count += 1
-                except Exception:
-                    continue
 
-            print(f"    {asn}: {count} префиксов добавлено")
-        except Exception as e:
-            print(f"    Ошибка при получении {asn}: {e}")
+                print(f"    {asn}: {count} префиксов добавлено")
+            except Exception as e:
+                print(f"    Ошибка при получении {asn}: {e}")
 
-        time.sleep(1.0)  # чтобы не бомбить API
+            time.sleep(1.0)
 
-    v4_agg = list(ipaddress.collapse_addresses(
-        sorted(v4_all, key=lambda n: (int(n.network_address), n.prefixlen))
-    ))
-    v6_agg = list(ipaddress.collapse_addresses(
-        sorted(v6_all, key=lambda n: (int(n.network_address), n.prefixlen))
-    ))
+        v4_agg = list(ipaddress.collapse_addresses(
+            sorted(v4_all, key=lambda n: (int(n.network_address), n.prefixlen))
+        ))
+        v6_agg = list(ipaddress.collapse_addresses(
+            sorted(v6_all, key=lambda n: (int(n.network_address), n.prefixlen))
+        ))
 
-    def sort_key(n):
-        return (n.version, int(n.network_address), n.prefixlen)
+        def sort_key(n):
+            return (n.version, int(n.network_address), n.prefixlen)
 
-    v4_sorted = sorted(v4_agg, key=sort_key)
-    v6_sorted = sorted(v6_agg, key=sort_key)
+        v4_sorted = sorted(v4_agg, key=sort_key)
+        v6_sorted = sorted(v6_agg, key=sort_key)
 
-    output = f"{DESTINATION}/{FILE_PREFIX}{service.output}{FILE_SUFFIX}"
+        output = f"{DESTINATION}/{FILE_PREFIX}{service.output}{FILE_SUFFIX}"
 
-    with open(output, "w", encoding="utf-8") as f:
-        for net in v4_sorted:
-            f.write(str(net) + "\n")
-        for net in v6_sorted:
-            f.write(str(net) + "\n")
+        with open(output, "w", encoding="utf-8") as f:
+            for net in v4_sorted:
+                f.write(str(net) + "\n")
+            for net in v6_sorted:
+                f.write(str(net) + "\n")
 
-    print(f"Сохранено в {output}")
-    print(f"IPv4: {len(v4_sorted)} | IPv6: {len(v6_sorted)} | Всего: {len(v4_sorted)+len(v6_sorted)}")
+        print(f"Сохранено в {output}")
+        print(f"IPv4: {len(v4_sorted)} | IPv6: {len(v6_sorted)} | Всего: {len(v4_sorted)+len(v6_sorted)}")
 
-print("\nГотово!")
+    print("\nГотово!")
+
+if __name__ == "__main__":
+    main()

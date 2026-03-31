@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import ipaddress
 from pathlib import Path
@@ -109,37 +110,40 @@ def parse_list(file_input, data_dir, result_set, visited, mode, inherited_attrs=
     except Exception as e:
         print(f"Error reading `{file_path}`: {e}")
 
-def main():
-    if len(sys.argv) != 4:
-        print("Usage: script.py <mode: hostlist|ipset> <input_file> <output_file>")
-        return
-    
-    mode = sys.argv[1]
-    input_file = Path(sys.argv[2])
-    output_file = Path(sys.argv[3])
-
+def run(mode: str, input_file: str, output_file: str):
     if mode not in ("hostlist", "ipset"):
-        print("Error: mode must be 'hostlist' or 'ipset'")
-        return
+        raise ValueError("mode must be 'hostlist' or 'ipset'")
+
+    input_path = Path(input_file)
+    output_path = Path(output_file)
 
     data_directory = Path(f"./data/{mode}")
-    
+
     if not data_directory.is_dir():
-        print(f"Error: Directory `{data_directory}` not found.")
-        return
+        raise FileNotFoundError(f"Directory `{data_directory}` not found.")
 
     result = set()
     visited = set()
 
-    print(f"Starting build from file: {output_file}")
-    parse_list(input_file, data_directory, result, visited, mode)
+    print(f"Starting build from file: {input_path}")
+    parse_list(input_path, data_directory, result, visited, mode)
 
-    with open(output_file, 'w', encoding='utf-8') as f:
+    with open(output_path, 'w', encoding='utf-8') as f:
         for item in sorted(result):
             f.write(f"{item}\n")
 
     print(f"Done! Total: {len(result)}")
-    print(f"Saved to: {output_file}")
+    print(f"Saved to: {output_path}")
+
+def main():
+    import sys
+
+    if len(sys.argv) != 4:
+        print("Usage: script.py <mode: hostlist|ipset> <input_file> <output_file>")
+        return
+
+    run(sys.argv[1], sys.argv[2], sys.argv[3])
+
 
 if __name__ == "__main__":
     main()
