@@ -50,6 +50,7 @@ include:spotify
 include:rutracker
 include:rutor
 include:proton
+include:windscribe
 include:minecraft
 
 include:digicert

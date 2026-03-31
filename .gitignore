@@ -1,4 +1,5 @@
-.venv/
+.venv
+asn_list.jsonc.bak
 
 #list-general.txt
 #ipset-general.txt

@@ -20,7 +20,7 @@
         "output": "digitalocean"
     },
     {
-        "name": "Datacamp, CDN77, KeyCDN",
+        "name": "Datacamp, CDN77, KeyCDN, Proton",
         "asn": ["AS60068", "AS212238"],
         "output": "datacamp"
     },
@@ -36,7 +36,7 @@
     },
     {
         "name": "Constant, Vultr",
-        "asn": ["AS20473", "AS64515"],
+        "asn": ["AS20473", "AS64515", "AS213230", "AS6695"],
         "output": "constant"
     },
     {
@@ -51,7 +51,7 @@
         "output": "oracle"
     },
     {
-        "name": "Amazon",
+        "name": "Amazon, Slack",
         "asn": ["AS16509", "AS14618", "AS8987", "AS7224", "AS10124"],
         "output": "amazon"
     },
@@ -106,8 +106,8 @@
 		"output": "telegram"
 	},
 	{
-		"name": "Discrod",
-		"asn": ["AS49544", "AS19527", "AS139070"],
+		"name": "Discord",
+		"asn": ["AS19527", "AS139070"],
 		"output": "discord"
 	},
     {
@@ -167,7 +167,7 @@
     },
     {
         "name": "Limelight Networks (Edgio)",
-        "asn": ["AS22822", "AS38621", "AS55429"],
+        "asn": ["AS22822", "AS23059", "AS38621", "AS27191", "AS37277", "AS55429"],
         "output": "limelight"
     },
     {
@@ -241,7 +241,7 @@
 		"output": "ntt"
 	},
 	{
-		"name": "Telia",
+		"name": "Telia / Arelion",
 		"asn": ["AS1299"],
 		"output": "telia"
 	},
@@ -249,6 +249,11 @@
 		"name": "GTT",
 		"asn": ["AS3257"],
 		"output": "gtt"
+	},
+	{
+		"name": "Inter.link GmbH",
+		"asn": ["AS5405"],
+		"output": "interlink"
 	},
 	{
 		"name": "Zayo",
@@ -259,5 +264,40 @@
 		"name": "Tata Communications",
 		"asn": ["AS6453"],
 		"output": "tata"
+	},
+	{
+		"name": "Meta (Facebook, Instagram, Whatsapp)",
+		"asn": ["AS32934", "AS11917", "AS63293"],
+		"output": "meta"
+	},
+	{
+		"name": "Twitter (X)",
+		"asn": ["AS13414"],
+		"output": "twitter"
+	},
+	{
+		"name": "Twitch",
+		"asn": ["AS46489"],
+		"output": "twitch"
+	},
+	{
+		"name": "Netflix",
+		"asn": ["AS2906"],
+		"output": "netflix"
+	},
+	{
+		"name": "Incapsula (Imperva)",
+		"asn": ["AS19551"],
+		"output": "incapsula"
+	},
+	{
+		"name": "Windscribe",
+		"asn": ["AS397540", "AS41564"],
+		"output": "windscribe"
+	},
+	{
+		"name": "Proton",
+		"asn": ["AS209103", "AS62371", "AS208172"],
+		"output": "proton"
 	}
 ]

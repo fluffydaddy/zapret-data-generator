@@ -1504,6 +1504,7 @@ protonstatus.com
 protontech.ch
 protonvpn.ch
 protonvpn.com
+protonvpn.net
 protonweb.com
 pscdn.co
 pscp.tv
@@ -1663,6 +1664,7 @@ stackpath.com
 stackpath.dev
 stacksnippets.net
 static.siege-amazon.com
+staticnetcontent.com
 sun.com
 superuser.com
 supportfacebook.com
@@ -1726,6 +1728,7 @@ tlauncher.org
 ton.org
 toplayerserver.com
 tospotify.com
+totallyacdn.com
 trycloudflare.com
 tweetdeck.com
 twimg.com
@@ -1810,6 +1813,7 @@ whatsapp.net
 whatsapp.org
 whatsapp.tv
 whatsappbrand.com
+whiskergalaxy.com
 whispersystems.org
 wholecitiesfoundation.org
 wholefoods.com
@@ -1819,6 +1823,9 @@ wholekidsfoundation.org
 wholeplanetfoundation.org
 whyfacebook.com
 wide-youtube.l.google.com
+windscribe.com
+windscribe.dev
+windscribe.net
 winudf.com
 withyoutube.com
 workers.dev

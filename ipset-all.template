@@ -11,6 +11,8 @@ include:clougix
 include:cogent
 include:constant
 include:contabo
+include:proton
+include:windscribe
 include:datacamp
 include:digitalocean
 include:fastly
@@ -50,3 +52,8 @@ include:telia
 include:gtt
 include:zayo
 include:tata
+include:meta
+include:twitter
+include:twitch
+include:netflix
+include:incapsula
