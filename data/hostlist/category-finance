@@ -1,0 +1,21 @@
+# DONOT include:category-bank-cn
+include:category-bank-ir
+include:category-bank-jp
+include:category-bank-mm
+include:category-bank-ru
+
+include:fibank
+include:futu
+include:hsbc
+include:ibkr
+include:ifast
+include:itiger
+include:longbridge
+include:n26
+include:schwab
+include:standardchartered
+include:wise
+
+fxcorporate.com
+mql5.com
+tradingview.com

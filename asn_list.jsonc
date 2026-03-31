@@ -1,0 +1,253 @@
+[
+    {
+        "name": "Scaleway",
+        "asn": ["AS12876"],
+        "output": "scaleway"
+    },
+    {
+        "name": "Hetzner",
+        "asn": ["AS24940", "AS212317", "AS213230", "AS215859"],
+        "output": "hetzner"
+    },
+    {
+        "name": "Akamai",
+        "asn": ["AS16625", "AS20940", "AS33905"],
+        "output": "akamai"
+    },
+    {
+        "name": "DigitalOcean",
+        "asn": ["AS14061"],
+        "output": "digitalocean"
+    },
+    {
+        "name": "Datacamp, CDN77, KeyCDN",
+        "asn": ["AS60068", "AS212238"],
+        "output": "datacamp"
+    },
+    {
+        "name": "Contabo",
+        "asn": ["AS51167", "AS40021", "AS141995"],
+        "output": "contabo"
+    },
+    {
+        "name": "OVH",
+        "asn": ["AS16276", "AS35540", "AS197042", "AS197043"],
+        "output": "ovh"
+    },
+    {
+        "name": "Constant, Vultr",
+        "asn": ["AS20473", "AS64515"],
+        "output": "constant"
+    },
+    {
+		// WPEngine, Inc - AS209242
+        "name": "CloudFlare",
+        "asn": ["AS13335", "AS14789", "AS132892", "AS209242", "AS395747"],
+        "output": "cloudflare"
+    },
+    {
+        "name": "Oracle",
+        "asn": ["AS1219", "AS14544", "AS20054", "AS31898", "AS6142"],
+        "output": "oracle"
+    },
+    {
+        "name": "Amazon",
+        "asn": ["AS16509", "AS14618", "AS8987", "AS7224", "AS10124"],
+        "output": "amazon"
+    },
+    {
+        "name": "G-Core Labs",
+        "asn": ["AS199524"],
+        "output": "gcore"
+    },
+    {
+        "name": "Roblox",
+        "asn": ["AS22697"],
+        "output": "roblox"
+    },
+    {
+        "name": "Felloship",
+        "asn": ["AS46461"],
+        "output": "fellowship"
+    },
+    {
+        "name": "Fastly",
+        "asn": ["AS54113"],
+        "output": "fastly"
+    },
+    {
+        "name": "LogicForge",
+        "asn": ["AS208621"],
+        "output": "logicforge"
+    },
+    {
+        "name": "Hostinger",
+        "asn": ["AS47583"],
+        "output": "hostinger"
+    },
+    {
+        "name": "Ionos",
+        "asn": ["AS8560"],
+        "output": "ionos"
+    },
+    {
+        "name": "GoDaddy",
+        "asn": ["AS26496"],
+        "output": "godaddy"
+    },
+    {
+        "name": "ResellerClub (BigRock), DreamHost, Newfold Digital",
+        "asn": ["AS26347", "AS29873", "AS46606", "AS19871", "AS10620", "AS36214"],
+        "output": "newfold"
+    },
+    {
+        "name": "Valve",
+        "asn": ["AS32590"],
+        "output": "valve"
+    },
+    {
+        "name": "Cogent",
+        "asn": ["AS174"],
+        "output": "cogent"
+    },
+    {
+        "name": "Riot Games, Inc",
+        "asn": ["AS6507"],
+        "output": "riotgames"
+    },
+    {
+        "name": "Linode (Akamai), FastComet",
+        "asn": ["AS63949", "AS48337"],
+        "output": "linode"
+    },
+    {
+        "name": "I3DNET",
+        "asn": ["AS49544"],
+        "output": "i3dnet"
+    },
+    {
+        "name": "Bunny CDN",
+        "asn": ["AS200325"],
+        "output": "bunny"
+    },
+    {
+        "name": "Microsoft Azure",
+        "asn": ["AS8075", "AS12076"],
+        "output": "azure"
+    },
+    {
+        "name": "Google Cloud",
+        "asn": ["AS396982", "AS15169"],
+        "output": "google"
+    },
+    {
+        "name": "Kametera",
+        "asn": ["AS18015"],
+        "output": "kametera"
+    },
+    {
+        "name": "Clougix",
+        "asn": ["AS11775"],
+        "output": "clougix"
+    },
+    {
+        "name": "LeaseWeb",
+        "asn": ["AS32613", "AS134351", "AS136988"],
+        "output": "leaseweb"
+    },
+    {
+        "name": "Limelight Networks (Edgio)",
+        "asn": ["AS22822", "AS38621", "AS55429"],
+        "output": "limelight"
+    },
+    {
+        "name": "Melbicom (Melbikomas UAB)",
+        "asn": ["AS8849", "AS56630"],
+        "output": "melbicom"
+    },
+    {
+        "name": "Zenlayer",
+        "asn": ["AS21859"],
+        "output": "zenlayer"
+    },
+    {
+        "name": "Cloudvider",
+        "asn": ["AS62240"],
+        "output": "cloudvider"
+    },
+    {
+        "name": "M247 Europe",
+        "asn": ["AS9009"],
+        "output": "m247"
+    },
+    {
+        "name": "Iomart Cloud",
+        "asn": ["AS20860", "AS21130"],
+        "output": "iomart"
+    },
+    {
+        "name": "FranTech Solutions / BuyVM",
+        "asn": ["AS53667"],
+        "output": "frantech"
+    },
+    {
+        "name": "Layer 2 Networks, Inc.",
+        "asn": ["AS55170"],
+        "output": "layer2networks"
+    },
+    {
+        "name": "GlobalTeleHost",
+        "asn": ["AS62563"],
+        "output": "globaltelehost"
+    },
+    {
+        "name": "GTHost",
+        "asn": ["AS63023"],
+        "output": "gthost"
+    },
+    {
+        "name": "HostPapa",
+        "asn": ["AS36352"],
+        "output": "hostpapa"
+    },
+    {
+        "name": "Aeza / EdgeCenter",
+        "asn": ["AS210756"],
+        "output": "aeza"
+    },
+	{
+        "name": "StackPath",
+        "asn": ["AS20446"],
+        "output": "stackpath"
+    },
+	{
+		"name": "Lumen / Level3",
+		"asn": ["AS3356"],
+		"output": "lumen"
+	},
+	{
+		"name": "NTT",
+		"asn": ["AS2914"],
+		"output": "ntt"
+	},
+	{
+		"name": "Telia",
+		"asn": ["AS1299"],
+		"output": "telia"
+	},
+	{
+		"name": "GTT",
+		"asn": ["AS3257"],
+		"output": "gtt"
+	},
+	{
+		"name": "Zayo",
+		"asn": ["AS6461"],
+		"output": "zayo"
+	},
+	{
+		"name": "Tata Communications",
+		"asn": ["AS6453"],
+		"output": "tata"
+	}
+]
