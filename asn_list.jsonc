@@ -100,6 +100,16 @@
         "asn": ["AS26347", "AS29873", "AS46606", "AS19871", "AS10620", "AS36214"],
         "output": "newfold"
     },
+	{
+		"name": "Telegram",
+		"asn": ["AS62041", "AS62014", "AS59930", "AS44907", "AS211157"],
+		"output": "telegram"
+	},
+	{
+		"name": "Discrod",
+		"asn": ["AS49544", "AS19527", "AS139070"],
+		"output": "discord"
+	},
     {
         "name": "Valve",
         "asn": ["AS32590"],

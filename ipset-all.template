@@ -1,8 +1,11 @@
 include:akamai
 include:amazon
+include:cloudflare
+include:i3dnet
+include:telegram
+include:discord
 include:azure
 include:bunny
-include:cloudflare
 include:cloudvider
 include:clougix
 include:cogent
@@ -21,7 +24,6 @@ include:gthost
 include:hetzner
 include:hostinger
 include:hostpapa
-include:i3dnet
 include:iomart
 include:ionos
 include:kametera
