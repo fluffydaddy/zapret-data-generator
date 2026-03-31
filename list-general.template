@@ -1,20 +1,9 @@
-include:whatsapp
+# Social
 include:telegram
 include:discord
 include:matrix
-include:youtube
-include:limelight
-include:apkcombo
-include:apkmirror
-include:apkpure
-include:ovh
-include:vrcdn
-include:stackpath
-include:stackexchange
 include:viber
-include:xda
-include:roblox
-include:jetbrains
+include:whatsapp
 include:facebook
 include:messenger
 include:instagram
@@ -24,8 +13,21 @@ include:snapchat
 include:quora
 include:linkedin
 include:patreon
-include:xda
 include:x
+
+include:youtube
+include:limelight
+include:apkcombo
+include:apkmirror
+include:apkpure
+include:ovh
+include:vrcdn
+include:stackpath
+include:stackexchange
+include:xda
+include:roblox
+include:jetbrains
+include:meta
 
 include:scaleway
 include:oracle
@@ -34,6 +36,7 @@ include:melbicom
 include:cloudflare
 include:amazon
 include:akamai
+include:linode
 include:hetzner
 include:g-core
 include:google-cloud
@@ -43,7 +46,6 @@ include:digitalocean
 include:godaddy
 include:contabo
 include:cdn77
-include:akamai
 include:deezer
 include:soundcloud
 include:spotify
@@ -52,6 +54,7 @@ include:rutor
 include:proton
 include:windscribe
 include:minecraft
+include:mega
 
 include:digicert
 include:verisign
@@ -60,8 +63,17 @@ include:microsoft-pki
 include:symantec
 include:letsencrypt
 
+ripe.net
+
+# Porn
+include:category-porn
+hentasis1.top
+animefox.org
+
 # Google
 play.google.com
+market.google.com
+play.google.ru
 
 # Found with help --hostlist-auto
 o.pki.goog
@@ -78,7 +90,6 @@ detectportal.firefox.com
 rublacklist.net
 roskomsvoboda.org
 medium.com
-apkmirror.com
 meduza.io
 ntc.party
 knowyourmeme.com

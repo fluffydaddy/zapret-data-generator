@@ -1,303 +1,1786 @@
 [
-    {
-        "name": "Scaleway",
-        "asn": ["AS12876"],
-        "output": "scaleway"
-    },
-    {
-        "name": "Hetzner",
-        "asn": ["AS24940", "AS212317", "AS213230", "AS215859"],
-        "output": "hetzner"
-    },
-    {
-        "name": "Akamai",
-        "asn": ["AS16625", "AS20940", "AS33905"],
-        "output": "akamai"
-    },
-    {
-        "name": "DigitalOcean",
-        "asn": ["AS14061"],
-        "output": "digitalocean"
-    },
-    {
-        "name": "Datacamp, CDN77, KeyCDN, Proton",
-        "asn": ["AS60068", "AS212238"],
-        "output": "datacamp"
-    },
-    {
-        "name": "Contabo",
-        "asn": ["AS51167", "AS40021", "AS141995"],
-        "output": "contabo"
-    },
-    {
-        "name": "OVH",
-        "asn": ["AS16276", "AS35540", "AS197042", "AS197043"],
-        "output": "ovh"
-    },
-    {
-        "name": "Constant, Vultr",
-        "asn": ["AS20473", "AS64515", "AS213230", "AS6695"],
-        "output": "constant"
-    },
-    {
+	{
+		"name": "Scaleway",
+		"asn": {
+			"value": "AS12876",
+			"company": "Scaleway SAS",
+			"country": "fr",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "scaleway.com"
+		},
+		"output": "scaleway"
+	},
+	{
+		"name": "Hetzner",
+		"asn": [
+		{
+			"value": "AS24940",
+			"company": "Hetzner Online GmbH",
+			"country": "de",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hetzner.de"
+		},
+		{
+			"value": "AS212317",
+			"company": "Hetzner Online GmbH",
+			"country": "de",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hetzner.de"
+		},
+		{
+			"value": "AS213230",
+			"company": "Hetzner Online GmbH",
+			"country": "de",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hetzner.de"
+		},
+		{
+			"value": "AS215859",
+			"company": "Hetzner Online GmbH",
+			"country": "de",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hetzner.de"
+		}
+		],
+		"output": "hetzner"
+	},
+	{
+		"name": "Akamai",
+		"asn": [
+		{
+			"value": "AS12222",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS16625",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS16702",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS17204",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS18680",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS18717",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS20189",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS20940",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS21342",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS21357",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS21399",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS22207",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS22822",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS22452",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS23059",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS23454",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS23455",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS23903",
+			"company": "Akamai Banglore Office ASN",
+			"country": "in",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS24319",
+			"company": "Akamai Technologies Tokyo ASN",
+			"country": "sg",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS26008",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS26506",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS27191",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS30675",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS31107",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS31108",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS31109",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS31110",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS31377",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS33047",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS33905",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS34164",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS34850",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS35204",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS35993",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS35994",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS36183",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS37277",
+			"company": "Limelight Networks",
+			"country": "za",
+			"type": "Inactive",
+			"registry": "AFRINIC",
+			"website": "limelightnetworks.com"
+		},
+		{
+			"value": "AS38621",
+			"company": "Limelight Networks New Delhi",
+			"country": "in",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "edg.io"
+		},
+		{
+			"value": "AS39836",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS43639",
+			"company": "Akamai International B.V.",
+			"country": "nl",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS48337",
+			"company": "Linode, LLC",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS55409",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS55429",
+			"company": "Limelight Networks India",
+			"country": "in",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "edg.io"
+		},
+		{
+			"value": "AS55770",
+			"company": "Akamai Technologies, Inc.",
+			"country": "sg",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS63949",
+			"company": "Akamai Connected Cloud",
+			"country": "sg",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "linode.com"
+		},
+		{
+			"value": "AS133103",
+			"company": "Akamai Technologies, Inc.",
+			"country": "sg",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "akamai.com"
+		},
+		{
+			"value": "AS393560",
+			"company": "Akamai Technologies, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "akamai.com"
+		}
+		],
+		"output": "akamai"
+	},
+	{
+		"name": "DigitalOcean",
+		"asn": [
+		{
+			"value": "AS14061",
+			"company": "DigitalOcean, LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "digitalocean.com"
+		},
+		{
+			"value": "AS62567",
+			"company": "DigitalOcean, LLC",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "digitalocean.com"
+		},
+		{
+			"value": "AS133165",
+			"company": "Digital Ocean, Inc.",
+			"country": "sg",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "digitalocean.com"
+		},
+		{
+			"value": "AS135340",
+			"company": "Digital Ocean, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "digitalocean.com"
+		},
+		{
+			"value": "AS394362",
+			"company": "DigitalOcean, LLC",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "digitalocean.com"
+		},
+		{
+			"value": "AS393406",
+			"company": "DigitalOcean, LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "digitalocean.com"
+		}
+			//"AS39690", // SC ITNS.NET SRL
+			//"AS200130", // Simon Mariacher /* Inactive */
+			//"AS201229", // Netcon IT Solutions GmbH /* Inactive */
+			//"AS202018", // Servinet Sistemas y Comunicacion S.L.
+			//"AS202109", // ROBOK LLC /* Inactive */
+			//"AS205301", // Contrust Solutions S.R.L. /* Inactive */
+		],
+		"output": "digitalocean"
+	},
+	{
+		"name": "Datacamp, CDN77", // Datacamp Limited, CDN77, DataPacket, KeyCDN, Proton
+		"asn": [
+		{
+			"value": "AS60068",
+			"company": "Datacamp Limited",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "cdn77.com"
+		},
+		{
+			"value": "AS211612",
+			"company": "Datacamp Limited",
+			"country": "gb",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "cdn77.com"
+		},
+		{
+			"value": "AS212238",
+			"company": "Datacamp Limited",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "datacamp.co.uk"
+		}
+		],
+		"output": "datacamp"
+	},
+	{
+		"name": "Contabo",
+		"asn": [
+		{
+			"value": "AS51167",
+			"company": "Contabo GmbH",
+			"country": "de",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "contabo.com"
+		},
+		{
+			"value": "AS40021",
+			"company": "Contabo Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "contabo.com"
+		},
+		{
+			"value": "AS141995",
+			"company": "Contabo Asia Private Limited",
+			"country": "sg",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "contabo.com"
+		}
+		],
+		"output": "contabo"
+	},
+	{
+		"name": "Hurricane Electric",
+		"asn": {
+			"value": "AS6939",
+			"company": "Hurricane Electric LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "he.net"
+		},
+		"output": "hurricane-electric"
+	},
+	{
+		"name": "OVH",
+		"asn": [
+		{
+			"value": "AS16276",
+			"company": "OVH SAS",
+			"country": "fr",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "ovhcloud.com"
+		},
+		{
+			"value": "AS35540",
+			"company": "OVH SAS",
+			"country": "fr",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "ovh.fr"
+		}
+			//"AS197042" // AKTIF YATIRIM BANKASI ANONIM SIRKETI, tr, Business, RIPE
+			//"AS197043" // Unassigned /* Inactive */
+		],
+		"output": "ovh"
+	},
+	{
+		"name": "Constant",
+		"asn": [
+		// Constant, Vultr
+		{
+			"value": "AS20473",
+			"company": "The Constant Company, LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "constant.com"
+		},
+		{
+			"value": "AS6695",
+			"company": "DE-CIX Management GmbH",
+			"country": "de",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "de-cix.net"
+		}
+		/*{
+			"value": "AS64515",
+			"company": "The Constant Company, LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "constant.com"
+		}*/
+		],
+		"output": "constant"
+	},
+	{
 		// WPEngine, Inc - AS209242
-        "name": "CloudFlare",
-        "asn": ["AS13335", "AS14789", "AS132892", "AS209242", "AS395747"],
-        "output": "cloudflare"
-    },
-    {
-        "name": "Oracle",
-        "asn": ["AS1219", "AS14544", "AS20054", "AS31898", "AS6142"],
-        "output": "oracle"
-    },
-    {
-        "name": "Amazon, Slack",
-        "asn": ["AS16509", "AS14618", "AS8987", "AS7224", "AS10124"],
-        "output": "amazon"
-    },
-    {
-        "name": "G-Core Labs",
-        "asn": ["AS199524"],
-        "output": "gcore"
-    },
-    {
-        "name": "Roblox",
-        "asn": ["AS22697"],
-        "output": "roblox"
-    },
-    {
-        "name": "Felloship",
-        "asn": ["AS46461"],
-        "output": "fellowship"
-    },
-    {
-        "name": "Fastly",
-        "asn": ["AS54113"],
-        "output": "fastly"
-    },
-    {
-        "name": "LogicForge",
-        "asn": ["AS208621"],
-        "output": "logicforge"
-    },
-    {
-        "name": "Hostinger",
-        "asn": ["AS47583"],
-        "output": "hostinger"
-    },
-    {
-        "name": "Ionos",
-        "asn": ["AS8560"],
-        "output": "ionos"
-    },
-    {
-        "name": "GoDaddy",
-        "asn": ["AS26496"],
-        "output": "godaddy"
-    },
-    {
-        "name": "ResellerClub (BigRock), DreamHost, Newfold Digital",
-        "asn": ["AS26347", "AS29873", "AS46606", "AS19871", "AS10620", "AS36214"],
-        "output": "newfold"
-    },
+		"name": "CloudFlare",
+		"asn": [
+		{
+			"value": "AS13335",
+			"company": "Cloudflare, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "cloudflare.com"
+		},
+		{
+			"value": "AS14789",
+			"company": "Cloudflare, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "cloudflare.com"
+		},
+		{
+			"value": "AS132892",
+			"company": "Cloudflare, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "cloudflare.com"
+		},
+		{
+			"value": "AS209242",
+			"company": "Cloudflare London, LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "cloudflare.com"
+		},
+		{
+			"value": "AS395747",
+			"company": "Cloudflare, Inc.",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "cloudflare.com"
+		}
+		],
+		"output": "cloudflare"
+	},
+	{
+		"name": "Oracle",
+		"asn": [
+		{
+			"value": "AS1219",
+			"company": "Oracle Corporation",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "oracle.com"
+		},
+		{
+			"value": "AS6142",
+			"company": "Oracle Corporation",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "oracle.com"
+		},
+		{
+			"value": "AS14544",
+			"company": "Oracle Corporation",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "oracle.com"
+		},
+		{
+			"value": "AS20054",
+			"company": "Oracle Corporation",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "oracle.com"
+		},
+		{
+			"value": "AS31898",
+			"company": "Oracle Corporation",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "oracle.com"
+		}
+		],
+		"output": "oracle"
+	},
+	{
+		"name": "Amazon, Twitch, Slack",
+		"asn": [
+		{
+			"value": "AS7224",
+			"company": "Amazon.com, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "amazon.com"
+		},
+		{
+			"value": "AS8987",
+			"company": "Amazon.com, Inc.",
+			"country": "ie",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "amazon.com"
+		},
+		{
+			"value": "AS10124",
+			"company": "Amazon Data Services Japan KK",
+			"country": "jp",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "amazon.com"
+		},
+		{
+			"value": "AS14618",
+			"company": "Amazon.com, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "amazon.com"
+		},
+		{
+			"value": "AS16509",
+			"company": "Amazon.com, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "amazon.com"
+		},
+		{
+			"value": "AS46489",
+			"company": "Twitch Interactive Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "twitch.tv"
+		}
+		],
+		"output": "amazon"
+	},
+	{
+		"name": "G-Core Labs",
+		"asn": [
+		{
+			"value": "AS199524",
+			"company": "G-Core Labs S.A.",
+			"country": "lu",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "gcore.com"
+		},
+		{
+			"value": "AS202422",
+			"company": "G-Core Labs S.A.",
+			"country": "lu",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "gcore.com"
+		}
+		],
+		"output": "gcore"
+	},
+	{
+		"name": "Roblox",
+		"asn": [
+		{
+			"value": "AS22697",
+			"company": "Roblox",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "roblox.com"
+		}
+		],
+		"output": "roblox"
+	},
+	{
+		"name": "Felloship",
+		"asn": {
+			"value": "AS46461",
+			"company": "CRYPTIC STUDIOS, INC.",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "crypticstudios.com"
+		},
+		"output": "fellowship"
+	},
+	{
+		"name": "Fastly",
+		"asn": [
+		{
+			"value": "AS895",
+			"company": "Fastly, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "fastly.com"
+		},
+		{
+			"value": "AS54113",
+			"company": "Fastly, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "fastly.com"
+		}
+		],
+		"output": "fastly"
+	},
+	{
+		"name": "LogicForge",
+		"asn": [
+		{
+			"value": "AS208621",
+			"company": "LogicForge Limited",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "logicservers.com"
+		}
+		],
+		"output": "logicforge"
+	},
+	{
+		"name": "Hostinger",
+		"asn": {
+			"value": "AS47583",
+			"company": "Hostinger International Limited",
+			"country": "cy",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hostinger.com"
+		},
+		"output": "hostinger"
+	},
+	{
+		"name": "Ionos",
+		"asn": {
+			"value": "AS8560",
+			"company": "IONOS SE",
+			"country": "de",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "ionos.com"
+		},
+		"output": "ionos"
+	},
+	{
+		"name": "GoDaddy",
+		"asn": {
+			"value": "AS26496",
+			"company": "GoDaddy.com, LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "godaddy.com"
+		},
+		"output": "godaddy"
+	},
+	{
+		"name": "Namecheap",
+		"asn": {
+			"value": "AS22612",
+			"company": "Namecheap, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "namecheap.com"
+		}, //"AS16626"
+		"output": "namecheap"
+	},
+	{
+		"name": "Workonline Communications",
+		"asn": {
+			"value": "AS37271",
+			"company": "Workonline Communications(Pty) Ltd",
+			"country": "za",
+			"type": "ISP",
+			"registry": "AFRNIC",
+			"website": "workonline.africa"
+		},
+		"output": "workonline"
+	},
+	{
+		"name": "ResellerClub (BigRock), DreamHost, Newfold Digital",
+		"asn": [
+		{
+			"value": "AS26347",
+			"company": "New Dream Network, LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "dreamhost.com"
+		},
+		{
+			"value": "AS29873",
+			"company": "Newfold Digital, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "enduranceinternational.com"
+		},
+		{
+			"value": "AS46606",
+			"company": "Unified Layer",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "endurance.com"
+		},
+		{
+			"value": "AS19871",
+			"company": "Network Solutions, LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "networksolutions.com"
+		}
+			//"AS10620",
+			//"AS36214"
+		],
+		"output": "newfold"
+	},
 	{
 		"name": "Telegram",
-		"asn": ["AS62041", "AS62014", "AS59930", "AS44907", "AS211157"],
+		"asn": [
+		{
+			"value": "AS44907",
+			"company": "Telegram Messenger Inc",
+			"country": "vg",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "telegram.org"
+		},
+		{
+			"value": "AS59930",
+			"company": "Telegram Messenger Inc",
+			"country": "vg",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "telegram.org"
+		},
+		{
+			"value": "AS62014",
+			"company": "Telegram Messenger Inc",
+			"country": "vg",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "telegram.org"
+		},
+		{
+			"value": "AS62041",
+			"company": "Telegram Messenger Inc",
+			"country": "vg",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "telegram.org"
+		},
+		{
+			"value": "AS211157",
+			"company": "Telegram Messenger Inc",
+			"country": "vg",
+			"type": "Hosting",
+			"registry": "ISP",
+			"website": "telegram.org"
+		}
+		],
 		"output": "telegram"
 	},
 	{
-		"name": "Discord",
-		"asn": ["AS19527", "AS139070"],
-		"output": "discord"
+		"name": "Valve",
+		"asn": {
+			"value": "AS32590",
+			"company": "Valve Corporation",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "valvesoftware.com"
+		},
+		"output": "valve"
 	},
-    {
-        "name": "Valve",
-        "asn": ["AS32590"],
-        "output": "valve"
-    },
-    {
-        "name": "Cogent",
-        "asn": ["AS174"],
-        "output": "cogent"
-    },
-    {
-        "name": "Riot Games, Inc",
-        "asn": ["AS6507"],
-        "output": "riotgames"
-    },
-    {
-        "name": "Linode (Akamai), FastComet",
-        "asn": ["AS63949", "AS48337"],
-        "output": "linode"
-    },
-    {
-        "name": "I3DNET",
-        "asn": ["AS49544"],
-        "output": "i3dnet"
-    },
-    {
-        "name": "Bunny CDN",
-        "asn": ["AS200325"],
-        "output": "bunny"
-    },
-    {
-        "name": "Microsoft Azure",
-        "asn": ["AS8075", "AS12076"],
-        "output": "azure"
-    },
-    {
-        "name": "Google Cloud",
-        "asn": ["AS396982", "AS15169"],
-        "output": "google"
-    },
-    {
-        "name": "Kametera",
-        "asn": ["AS18015"],
-        "output": "kametera"
-    },
-    {
-        "name": "Clougix",
-        "asn": ["AS11775"],
-        "output": "clougix"
-    },
-    {
-        "name": "LeaseWeb",
-        "asn": ["AS32613", "AS134351", "AS136988"],
-        "output": "leaseweb"
-    },
-    {
-        "name": "Limelight Networks (Edgio)",
-        "asn": ["AS22822", "AS23059", "AS38621", "AS27191", "AS37277", "AS55429"],
-        "output": "limelight"
-    },
-    {
-        "name": "Melbicom (Melbikomas UAB)",
-        "asn": ["AS8849", "AS56630"],
-        "output": "melbicom"
-    },
-    {
-        "name": "Zenlayer",
-        "asn": ["AS21859"],
-        "output": "zenlayer"
-    },
-    {
-        "name": "Cloudvider",
-        "asn": ["AS62240"],
-        "output": "cloudvider"
-    },
-    {
-        "name": "M247 Europe",
-        "asn": ["AS9009"],
-        "output": "m247"
-    },
-    {
-        "name": "Iomart Cloud",
-        "asn": ["AS20860", "AS21130"],
-        "output": "iomart"
-    },
-    {
-        "name": "FranTech Solutions / BuyVM",
-        "asn": ["AS53667"],
-        "output": "frantech"
-    },
-    {
-        "name": "Layer 2 Networks, Inc.",
-        "asn": ["AS55170"],
-        "output": "layer2networks"
-    },
-    {
-        "name": "GlobalTeleHost",
-        "asn": ["AS62563"],
-        "output": "globaltelehost"
-    },
-    {
-        "name": "GTHost",
-        "asn": ["AS63023"],
-        "output": "gthost"
-    },
-    {
-        "name": "HostPapa",
-        "asn": ["AS36352"],
-        "output": "hostpapa"
-    },
-    {
-        "name": "Aeza / EdgeCenter",
-        "asn": ["AS210756"],
-        "output": "aeza"
-    },
 	{
-        "name": "StackPath",
-        "asn": ["AS20446"],
-        "output": "stackpath"
-    },
+		"name": "Cogent",
+		"asn": {
+			"value": "AS174",
+			"company": "Cogent Communications, LLC",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "cogentco.com"
+		},
+		"output": "cogent"
+	},
+	{
+		"name": "Riot Games",
+		"asn": {
+			"value": "AS6507",
+			"company": "Riot Games, Inc",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "riotgames.com"
+		},
+		"output": "riotgames"
+	},
+	{
+		// Discord used
+		"name": "I3DNET",
+		"asn": {
+			"value": "AS49544",
+			"company": "i3D.net B.V",
+			"country": "nl",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "i3d.net"
+		},
+		"output": "i3dnet"
+	},
+	{
+		"name": "Bunny CDN",
+		"asn": {
+			"value": "AS200325",
+			"company": "BUNNYWAY, informacijske storitve d.o.o.",
+			"country": "si",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "bunny.net"
+		},
+		"output": "bunny"
+	},
+	{
+		"name": "Microsoft Azure",
+		"asn": [
+		{
+			"value": "AS8075",
+			"company": "Microsoft Corporation",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "microsoft.com"
+		},
+		{
+			"value": "AS12076",
+			"company": "Microsoft Corporation",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "microsoft.com"
+		}
+		],
+		"output": "azure"
+	},
+	{
+		"name": "Google Cloud",
+		"asn": [
+		{
+			"value": "AS15169",
+			"company": "Google LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "google.com"
+		},
+		{
+			"value": "AS396982",
+			"company": "Google LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "google.com"
+		},
+		{
+			"value": "AS19527",
+			"company": "Google LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "google.com"
+		},
+		{
+			"value": "AS139070",
+			"company": "Google Asia Pacific Pte. Ltd.",
+			"country": "sg",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "google.com"
+		}
+		],
+		"output": "google"
+	},
+	{
+		"name": "Kametera, FastComet, Hosting",
+		"asn": [
+		{
+			"value": "AS36218",
+			"company": "WHG Hosting Services Ltd",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hosting.com"
+		},
+		{
+			"value": "AS209341",
+			"company": "WHG Hosting Services Ltd",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hosting.com"
+		},
+		{
+			"value": "AS216180",
+			"company": "WHG Hosting Services Ltd",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hosting.com"
+		},
+		{
+			"value": "AS211126",
+			"company": "WHG Hosting Services Ltd",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hosting.com"
+		},
+		{
+			"value": "AS212660",
+			"company": "WHG Hosting Services Ltd",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "hosting.com"
+		}
+			//"AS18015"
+		],
+		"output": "hosting"
+	},
+	{
+		"name": "Clougix",
+		"asn": {
+			"value": "AS11775",
+			"company": "Semina Tempus, LLC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "clougix.com"
+		},
+		"output": "clougix"
+	},
+	{
+		"name": "LeaseWeb",
+		"asn": [
+		{
+			"value": "AS32613",
+			"company": "Leaseweb Canada Inc.",
+			"country": "ca",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "leaseweb.ca"
+		},
+		{
+			"value": "AS134351",
+			"company": "Leaseweb Japan K.K.",
+			"country": "jp",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "leaseweb.com"
+		},
+		{
+			"value": "AS136988",
+			"company": "LEASEWEB AUSTRALIA PTY LIMITED",
+			"country": "au",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "leaseweb.com"
+		}
+		],
+		"output": "leaseweb"
+	},
+	{
+		"name": "Melbicom (Melbikomas UAB)",
+		"asn": [
+		{
+			"value": "AS8849",
+			"company": "Melbikomas UAB",
+			"country": "lt",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "melbicom.net"
+		},
+		{
+			"value": "AS56630",
+			"company": "Melbikomas UAB",
+			"country": "lt",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "melbicom.net"
+		}
+		],
+		"output": "melbicom"
+	},
+	{
+		"name": "Zenlayer",
+		"asn": {
+			"value": "AS21859",
+			"company": "Zenlayer Inc",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "zenlayer.com"
+		},
+		"output": "zenlayer"
+	},
+	{
+		"name": "Cloudvider",
+		"asn": {
+			"value": "AS62240",
+			"company": "Clouvider",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "clouvider.com"
+		},
+		"output": "cloudvider"
+	},
+	{
+		"name": "M247 Europe",
+		"asn": {
+			"value": "AS9009",
+			"company": "M247 Europe SRL",
+			"country": "ro",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "m247global.com"
+		},
+		"output": "m247"
+	},
+	{
+		"name": "Iomart Cloud",
+		"asn": [
+		{
+			"value": "AS20860",
+			"company": "IOMART CLOUD SERVICES LIMITED",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "iomart.com"
+		},
+		{
+			"value": "AS21130",
+			"company": "IOMART CLOUD SERVICES LIMITED",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "iomart.com"
+		}
+		],
+		"output": "iomart"
+	},
+	{
+		"name": "FranTech Solutions / BuyVM",
+		"asn": {
+			"value": "AS53667",
+			"company": "FranTech Solutions",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "frantech.ca"
+		},
+		"output": "frantech"
+	},
+	{
+		"name": "GlobalTeleHost",
+		"asn": [
+		{
+			"value": "AS62563",
+			"company": "GLOBALTELEHOST Corp.",
+			"country": "ca",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "gthost.com"
+		},
+		{
+			"value": "AS63023",
+			"company": "GTHost",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "gthost.com"
+		}
+		],
+		"output": "globaltelehost"
+	},
+	{
+		"name": "HostPapa",
+		"asn": {
+			"value": "AS36352",
+			"company": "HostPapa",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "colocrossing.com"
+		},
+		"output": "hostpapa"
+	},
+	{
+		"name": "Aeza",
+		"asn": {
+			"value": "AS210644",
+			"company": "AEZA GROUP LLC",
+			"country": "ru",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "aeza.net"
+		}, //"AS210756"
+		"output": "aeza"
+	},
+	{
+		"name": "StackPath",
+		"asn": [
+		{
+			"value": "AS20446",
+			"company": "Dukelana", // StackPath ABC, LLC
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "dukelana.net" // stackpath.com
+		},
+		{
+			"value": "AS33438",
+			"company": "Datum",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "stackpath.com"
+		}
+		],
+		"output": "stackpath"
+	},
 	{
 		"name": "Lumen / Level3",
-		"asn": ["AS3356"],
+		"asn": {
+			"value": "AS3356",
+			"company": "Level 3 Parent, LLC",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "lumen.com"
+		},
 		"output": "lumen"
 	},
 	{
 		"name": "NTT",
-		"asn": ["AS2914"],
+		"asn": {
+			"value": "AS2914",
+			"company": "NTT America, Inc.",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "ntt.com"
+		},
 		"output": "ntt"
 	},
 	{
 		"name": "Telia / Arelion",
-		"asn": ["AS1299"],
+		"asn": [
+		{
+			"value": "AS1299",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "arelion.com"
+		},
+		{
+			"value": "AS1833",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "arelion.com"
+		},
+		{
+			"value": "AS3301",
+			"company": "Telia Company AB",
+			"country": "se",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "teliacompany.com"
+		},
+		{
+			"value": "AS3308",
+			"company": "Telia Company AB",
+			"country": "se",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "teliacompany.com"
+		},
+		{
+			"value": "AS3249",
+			"company": "Telia Eesti AS",
+			"country": "ee",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "telia.ee"
+		},
+		{
+			"value": "AS7589",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "arelion.com"
+		},
+		{
+			"value": "AS8837",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "arelion.com"
+		}
+		],
 		"output": "telia"
 	},
 	{
 		"name": "GTT",
-		"asn": ["AS3257"],
+		"asn": {
+			"value": "AS3257",
+			"company": "GTT Communications Inc.",
+			"country": "us",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "gtt.com"
+		},
 		"output": "gtt"
 	},
 	{
 		"name": "Inter.link GmbH",
-		"asn": ["AS5405"],
+		"asn": {
+			"value": "AS5405",
+			"company": "Inter.link GmbH",
+			"country": "de",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "inter.link"
+		},
 		"output": "interlink"
 	},
 	{
 		"name": "Zayo",
-		"asn": ["AS6461"],
+		"asn": {
+			"value": "AS6461",
+			"company": "Zayo Bandwidth",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "zayo.com"
+		},
 		"output": "zayo"
 	},
 	{
 		"name": "Tata Communications",
-		"asn": ["AS6453"],
+		"asn": {
+			"value": "AS6453",
+			"company": "TATA COMMUNICATIONS (AMERICA) INC",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "tatacommunications.com"
+		},
 		"output": "tata"
 	},
 	{
 		"name": "Meta (Facebook, Instagram, Whatsapp)",
-		"asn": ["AS32934", "AS11917", "AS63293"],
+		"asn": [
+		{
+			"value": "AS6453",
+			"company": "Whatsapp",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "whatsapp.com"
+		},
+		{
+			"value": "AS32934",
+			"company": "Facebook, Inc.",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "facebook.com"
+		},
+		{
+			"value": "AS54115",
+			"company": "Facebook Inc",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "facebook.com"
+		},
+		{
+			"value": "AS63293",
+			"company": "Facebook, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "facebook.com"
+		},
+		{
+			"value": "AS149642",
+			"company": "Facebook Singapore Pte Ltd.",
+			"country": "sg",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "fb.com"
+		}
+		],
 		"output": "meta"
 	},
 	{
 		"name": "Twitter (X)",
-		"asn": ["AS13414"],
+		"asn": [
+		{
+			"value": "AS13414",
+			"company": "Twitter Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "twitter.com"
+		},
+		{
+			"value": "AS35995",
+			"company": "Twitter Inc.",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "twitter.com"
+		},
+		{
+			"value": "AS54888",
+			"company": "Twitter Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "twitter.com"
+		},
+		{
+			"value": "AS63179",
+			"company": "Twitter Inc.",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "twitter.com"
+		}
+		],
 		"output": "twitter"
 	},
 	{
-		"name": "Twitch",
-		"asn": ["AS46489"],
-		"output": "twitch"
-	},
-	{
 		"name": "Netflix",
-		"asn": ["AS2906"],
+		"asn": {
+			"value": "AS2906",
+			"company": "Netflix Streaming Services Inc.",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "netflix.com"
+		},
 		"output": "netflix"
 	},
 	{
+		"name": "Linkedin",
+		"asn": [
+		{
+			"value": "AS13443",
+			"company": "LinkedIn Corporation",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "linkedin.com"
+		},
+		{
+			"value": "AS14413",
+			"company": "LinkedIn Corporation",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "linkedin.com"
+		},
+		{
+			"value": "AS20049",
+			"company": "LinkedIn Corporation",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "linkedin.com"
+		},
+		{
+			"value": "AS20366",
+			"company": "LinkedIn Corporation",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "linkedin.com"
+		},
+		{
+			"value": "AS40793",
+			"company": "LinkedIn Corporation",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "linkedin.com"
+		},
+		{
+			"value": "AS55163",
+			"company": "LinkedIn Corporation",
+			"country": "us",
+			"type": "Business",
+			"registry": "ARIN",
+			"website": "linkedin.com"
+		},
+		{
+			"value": "AS132406",
+			"company": "8 Shenton Way",
+			"country": "sg",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "linkedin.com"
+		},
+		{
+			"value": "AS132466",
+			"company": "Linkedin Singapore Pte. Ltd",
+			"country": "sg",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "linkedin.com"
+		},
+		{
+			"value": "AS137709",
+			"company": "Beijing LinkedIn Information Technology Co.,Ltd",
+			"country": "cn",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "linkedin.com"
+		},
+		{
+			"value": "AS202745",
+			"company": "LinkedIn Austria GmbH",
+			"country": "au",
+			"type": "Business",
+			"registry": "RIPE",
+			"website": "linkedin.com"
+		}
+		],
+		"output": "linkedin"
+	},
+	{
+		"name": "Liquid Web",
+		"asn": [
+		{
+			"value": "AS6188",
+			"company": "Liquid Web, L.L.C",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "liquidweb.com"
+		},
+		{
+			"value": "AS21679",
+			"company": "Liquid Web, L.L.C",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "liquidweb.com"
+		},
+		{
+			"value": "AS32244",
+			"company": "Liquid Web, L.L.C",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "liquidweb.com"
+		},
+		{
+			"value": "AS53824",
+			"company": "Liquid Web, L.L.C",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "liquidweb.com"
+		}
+		],
+		"output": "liquid"
+	},
+	{
 		"name": "Incapsula (Imperva)",
-		"asn": ["AS19551"],
+		"asn": {
+			"value": "AS19551",
+			"company": "Incapsula Inc",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "incapsula.com"
+		},
 		"output": "incapsula"
 	},
 	{
 		"name": "Windscribe",
-		"asn": ["AS397540", "AS41564"],
+		"asn": [
+		{
+			"value": "AS41564",
+			"company": "Orion Network Limited",
+			"country": "gb",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "packetexchange.eu"
+		},
+		{
+			"value": "AS397540",
+			"company": "Windscribe",
+			"country": "ca",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "windscribe.com"
+		}
+		],
 		"output": "windscribe"
 	},
 	{
 		"name": "Proton",
-		"asn": ["AS209103", "AS62371", "AS208172"],
+		"asn": [
+		{
+			"value": "AS62371",
+			"company": "Proton AG",
+			"country": "ch",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "proton.me"
+		},
+		{
+			"value": "AS208172",
+			"company": "Proton AG",
+			"country": "ch",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "proton.ch"
+		},
+		{
+			"value": "AS209103",
+			"company": "Proton AG",
+			"country": "ch",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "proton.me"
+		}
+		],
 		"output": "proton"
 	}
 ]
