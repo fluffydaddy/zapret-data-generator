@@ -1,0 +1,109 @@
+{
+	"name": "Orange",
+	"asn": [
+		{
+			"value": "AS2278",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS2280",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS2285",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS2286",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS2287",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS2288",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS3215",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "Business",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS5511",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "Business",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS8891",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS24600",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS25113",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS28708",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		},
+		{
+			"value": "AS41128",
+			"company": "Orange S.A.",
+			"country": "fr",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "orange.com"
+		}
+	]
+}

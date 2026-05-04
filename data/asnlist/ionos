@@ -1,0 +1,29 @@
+{
+	"name": "Ionos",
+	"asn": [
+	{
+		"value": "AS8560",
+		"company": "IONOS SE",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "ionos.com"
+	},
+	{
+		"value": "AS15418",
+		"company": "IONOS SE",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "ionos.de"
+	},
+	{
+		"value": "AS54548",
+		"company": "IONOS Cloud Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "ionos.com"
+	}
+	]
+}

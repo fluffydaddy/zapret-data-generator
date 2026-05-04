@@ -1,0 +1,128 @@
+{
+	"name": "Cogent",
+	"asn": [
+	{
+		"value": "AS174",
+		"company": "Cogent Communications, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "cogentco.com"
+	},
+	{
+		"value": "AS1239",
+		"company": "Cogent Communications, LLC",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "sprint.net"
+	},
+	{
+		"value": "AS1790",
+		"company": "Cogent Communications, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "cogentco.com"
+	},
+	{
+		"value": "AS2149",
+		"company": "Cogent Communications, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "cogentco.com"
+	}
+	] // COGC
+}
+/*
+AS8110
+AS8109
+AS8108
+AS8107
+AS8106
+AS7982
+AS7458
+AS7421
+AS7061
+AS6496
+AS6494
+AS6299
+AS6277
+AS6276
+AS6275
+AS6274
+AS6273
+AS6272
+AS6271
+AS6270
+AS6259
+AS6177
+AS6176
+AS6175
+AS6174
+AS5084
+AS4999
+AS4994
+AS4993
+AS4992
+AS4991
+AS4550
+AS4388
+AS4200
+AS4132
+AS4064
+AS4006
+AS4005
+AS4004
+AS4003
+AS4002
+AS4001
+AS4000
+AS3830
+AS3652
+AS3651
+AS3650
+AS3649
+AS3648
+AS3647
+AS3646
+AS3645
+AS3644
+AS3643
+AS3483
+AS2649
+AS2557
+AS2556
+AS2555
+AS2014
+AS22099
+AS19164
+AS1808
+AS1807
+AS1806
+AS1805
+AS1804
+AS1803
+AS1802
+AS1801
+AS1800
+AS1799
+AS1795
+AS1794
+AS1793
+AS1792
+AS1791
+AS1789
+AS16631
+AS1284
+AS1283
+AS1282
+AS1281
+AS1240
+AS12207
+AS11526
+AS11220
+AS11024
+AS10768
+*/

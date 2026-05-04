@@ -1,0 +1,45 @@
+{
+	"name": "Telegram",
+	"asn": [
+	{
+		"value": "AS44907",
+		"company": "Telegram Messenger Inc",
+		"country": "vg",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "telegram.org"
+	},
+	{
+		"value": "AS59930",
+		"company": "Telegram Messenger Inc",
+		"country": "vg",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "telegram.org"
+	},
+	{
+		"value": "AS62014",
+		"company": "Telegram Messenger Inc",
+		"country": "vg",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "telegram.org"
+	},
+	{
+		"value": "AS62041",
+		"company": "Telegram Messenger Inc",
+		"country": "vg",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "telegram.org"
+	},
+	{
+		"value": "AS211157",
+		"company": "Telegram Messenger Inc",
+		"country": "vg",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "telegram.org"
+	}
+	]
+}

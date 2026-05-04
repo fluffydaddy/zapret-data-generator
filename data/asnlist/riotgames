@@ -1,0 +1,21 @@
+{
+	"name": "Riot Games",
+	"asn": [
+	{
+		"value": "AS6507",
+		"company": "Riot Games, Inc",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "riotgames.com"
+	},
+	{
+		"value": "AS62830",
+		"company": "RiotGames",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "riotgames.com"
+	}
+	]
+}

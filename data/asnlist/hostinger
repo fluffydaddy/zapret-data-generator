@@ -1,0 +1,21 @@
+{
+	"name": "Hostinger",
+	"asn": [
+	{
+		"value": "AS47583",
+		"company": "Hostinger International Limited",
+		"country": "cy",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hostinger.com"
+	},
+	{
+		"value": "AS204915",
+		"company": "Hostinger International Limited",
+		"country": "cy",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hostinger.com"
+	}
+	]
+}

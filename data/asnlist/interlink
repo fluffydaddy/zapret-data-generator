@@ -1,0 +1,21 @@
+{
+	"name": "Inter.link GmbH",
+	"asn": [
+	{
+		"value": "AS5405",
+		"company": "Inter.link GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "inter.link"
+	},
+	{
+		"value": "AS47865",
+		"company": "Inter.link GmbH",
+		"country": "de",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "inter.link"
+	}
+	]
+}

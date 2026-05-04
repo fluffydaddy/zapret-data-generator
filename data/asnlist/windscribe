@@ -1,0 +1,21 @@
+{
+	"name": "Windscribe",
+	"asn": [
+	{
+		"value": "AS41564",
+		"company": "Orion Network Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "packetexchange.eu"
+	},
+	{
+		"value": "AS397540",
+		"company": "Windscribe",
+		"country": "ca",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "windscribe.com"
+	}
+	]
+}

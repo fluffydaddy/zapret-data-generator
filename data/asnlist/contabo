@@ -1,0 +1,30 @@
+{
+	"name": "Contabo",
+	"asn": [
+	{
+		"value": "AS51167",
+		"company": "Contabo GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "contabo.com"
+	},
+	{
+		"value": "AS40021",
+		"company": "Contabo Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "contabo.com"
+	},
+	{
+		"value": "AS141995",
+		"company": "Contabo Asia Private Limited",
+		"country": "sg",
+		"type": "Hosting",
+		"registry": "APNIC",
+		"website": "contabo.com"
+	}
+	]
+}
+//AS154135

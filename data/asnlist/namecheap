@@ -1,0 +1,12 @@
+{
+	"name": "Namecheap",
+	"asn": {
+		"value": "AS22612",
+		"company": "Namecheap, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "namecheap.com"
+	}
+	//"AS16626"
+}

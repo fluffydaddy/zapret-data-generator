@@ -1,0 +1,11 @@
+{
+	"name": "Bunny CDN",
+	"asn": {
+		"value": "AS200325",
+		"company": "BUNNYWAY, informacijske storitve d.o.o.",
+		"country": "si",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "bunny.net"
+	}
+} // AS5065 / BunnyCDN

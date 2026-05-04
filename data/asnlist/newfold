@@ -1,0 +1,78 @@
+{
+	"name": "ResellerClub (BigRock), DreamHost, Newfold Digital",
+	"asn": [
+	{
+		"value": "AS14741",
+		"company": "Newfold Digital, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "enduranceinternational.com"
+	},
+	{
+		"value": "AS14441",
+		"company": "Network Solutions, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "networksolutions.com"
+	},
+	{
+		"value": "AS19871",
+		"company": "Network Solutions, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "networksolutions.com"
+	},
+	{
+		"value": "AS26347",
+		"company": "New Dream Network, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "dreamhost.com"
+	},
+	{
+		"value": "AS29873",
+		"company": "Newfold Digital, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "enduranceinternational.com"
+	},
+	{
+		"value": "AS32392",
+		"company": "Newfold Digital, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "enduranceinternational.com"
+	},
+	{
+		"value": "AS30380",
+		"company": "Newfold Digital, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "enduranceinternational.com"
+	},
+	{
+		"value": "AS36066",
+		"company": "Newfold Digital, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "enduranceinternational.com"
+	},
+	{
+		"value": "AS46606",
+		"company": "Unified Layer",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "endurance.com"
+	},
+	//"AS10620", "AS36214"
+	]
+}

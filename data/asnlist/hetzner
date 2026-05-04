@@ -1,0 +1,37 @@
+{
+	"name": "Hetzner",
+	"asn": [
+	{
+		"value": "AS24940",
+		"company": "Hetzner Online GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hetzner.de"
+	},
+	{
+		"value": "AS212317",
+		"company": "Hetzner Online GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hetzner.de"
+	},
+	{
+		"value": "AS213230",
+		"company": "Hetzner Online GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hetzner.de"
+	},
+	{
+		"value": "AS215859",
+		"company": "Hetzner Online GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hetzner.de"
+	}
+	]
+}

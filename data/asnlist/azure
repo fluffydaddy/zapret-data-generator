@@ -1,0 +1,21 @@
+{
+	"name": "Microsoft Azure",
+	"asn": [
+	{
+		"value": "AS8075",
+		"company": "Microsoft Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "microsoft.com"
+	},
+	{
+		"value": "AS12076",
+		"company": "Microsoft Corporation",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "microsoft.com"
+	}
+	]
+}

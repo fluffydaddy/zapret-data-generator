@@ -1,0 +1,21 @@
+{
+	"name": "Tata Communications",
+	"asn": [
+	{
+		"value": "AS6421",
+		"company": "TATA COMMUNICATIONS (AMERICA) INC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "tatacommunications.com"
+	},
+	{
+		"value": "AS6453",
+		"company": "TATA COMMUNICATIONS (AMERICA) INC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "tatacommunications.com"
+	}
+	]
+}

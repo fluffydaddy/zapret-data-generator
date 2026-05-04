@@ -1,0 +1,21 @@
+{
+	"name": "LogicForge",
+	"asn": [
+	{
+		"value": "AS59566",
+		"company": "LogicForge Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "logicforge.co.uk"
+	},
+	{
+		"value": "AS208621",
+		"company": "LogicForge Limited",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "logicservers.com"
+	}
+	]
+}

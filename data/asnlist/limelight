@@ -1,0 +1,93 @@
+{
+	"name": "Limelight",
+	"asn": [
+		{
+			"value": "AS22822",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS23059",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS23135",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS23164",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS25804",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS26506",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS27191",
+			"company": "Limelight Networks, Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "limelight.com"
+		},
+		{
+			"value": "AS37277",
+			"company": "Limelight Networks",
+			"country": "za",
+			"type": "Inactive",
+			"registry": "AFRINIC",
+			"website": "limelightnetworks.com"
+		},
+		{
+			"value": "AS38621",
+			"company": "Limelight Networks New Delhi",
+			"country": "in",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "edg.io"
+		},
+		{
+			"value": "AS38622",
+			"company": "Limelight Networks Australia",
+			"country": "au",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "edg.io"
+		},
+		{
+			"value": "AS55429",
+			"company": "Limelight Networks India",
+			"country": "in",
+			"type": "Inactive",
+			"registry": "APNIC",
+			"website": "edg.io"
+		}
+	]
+}

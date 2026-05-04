@@ -1,0 +1,11 @@
+{
+	"name": "Netflix",
+	"asn": {
+		"value": "AS2906",
+		"company": "Netflix Streaming Services Inc.",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "netflix.com"
+	}
+}

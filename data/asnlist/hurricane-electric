@@ -1,0 +1,29 @@
+{
+	"name": "Hurricane Electric",
+	"asn": [
+	{
+		"value": "AS6939",
+		"company": "Hurricane Electric LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "he.net"
+	},
+	{
+		"value": "AS6427",
+		"company": "Hurricane Electric LLC",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "he.net"
+	},
+	{
+		"value": "AS393338",
+		"company": "Hurricane Electric LLC",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "he.net"
+	}
+	]
+}

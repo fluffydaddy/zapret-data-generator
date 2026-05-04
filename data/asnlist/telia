@@ -1,0 +1,157 @@
+{
+	"name": "Telia",
+	"asn": [
+		{
+			"value": "AS544",
+			"company": "Telia Finland Oyj",
+			"country": "eu",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "teliacompany.com"
+		},
+		{
+			"value": "AS1759",
+			"company": "Telia Finland Oyj",
+			"country": "fi",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "telia.fi"
+		},
+		{
+			"value": "AS3249",
+			"company": "Telia Eesti AS",
+			"country": "ee",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "telia.ee"
+		},
+		{
+			"value": "AS3274",
+			"company": "Telia Cygate Oy",
+			"country": "fi",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "teliacygate.fi"
+		},
+		{
+			"value": "AS3301",
+			"company": "Telia Company AB",
+			"country": "se",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "teliacompany.com"
+		},
+		{
+			"value": "AS3308",
+			"company": "Telia Company AB",
+			"country": "se",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "teliacompany.com"
+		},
+		{
+			"value": "AS5515",
+			"company": "Telia Finland Oyj",
+			"country": "fi",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "telia.fi"
+		},
+		{
+			"value": "AS5575",
+			"company": "Telia Finland Oyj",
+			"country": "fi",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "telia.fi"
+		},
+		{
+			"value": "AS6781",
+			"company": "Telia Finland Oyj",
+			"country": "fi",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "telia.fi"
+		},
+		{
+			"value": "AS8764",
+			"company": "Telia Lietuva, AB",
+			"country": "lt",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "telia.lt"
+		},
+		{
+			"value": "AS12582",
+			"company": "Telia Finland Oyj",
+			"country": "fi",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "telia.fi"
+		},
+		{
+			"value": "AS13276",
+			"company": "Telia Cygate Oy",
+			"country": "fi",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "teliacygate.fi"
+		},
+		{
+			"value": "AS20569",
+			"company": "Telia Finland Oyj",
+			"country": "fi",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "telia.fi"
+		},
+		{
+			"value": "AS29422",
+			"company": "Telia Cygate Oy",
+			"country": "fi",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "inmicsnebula.fi"
+		},
+		{
+			"value": "AS33935",
+			"company": "Telia Cygate Oy",
+			"country": "fi",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "teliacygate.fi"
+		},
+		{
+			"value": "AS34484",
+			"company": "Telia Cygate Oy",
+			"country": "fi",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "teliacygate.fi"
+		},
+		{
+			"value": "AS51188",
+			"company": "Telia Cygate Oy",
+			"country": "fi",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "teliacygate.fi"
+		},
+		{
+			"value": "AS197308",
+			"company": "Telia Cygate AB",
+			"country": "se",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "teliacygate.se"
+		},
+		{
+			"value": "AS200711",
+			"company": "Telia Cygate Oy",
+			"country": "fi",
+			"type": "ISP",
+			"registry": "RIPE",
+			"website": "teliacygate.fi"
+		}
+	]
+}

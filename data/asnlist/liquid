@@ -1,0 +1,37 @@
+{
+	"name": "Liquid Web",
+	"asn": [
+	{
+		"value": "AS6188",
+		"company": "Liquid Web, L.L.C",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "liquidweb.com"
+	},
+	{
+		"value": "AS21679",
+		"company": "Liquid Web, L.L.C",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "liquidweb.com"
+	},
+	{
+		"value": "AS32244",
+		"company": "Liquid Web, L.L.C",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "liquidweb.com"
+	},
+	{
+		"value": "AS53824",
+		"company": "Liquid Web, L.L.C",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "liquidweb.com"
+	}
+	]
+}

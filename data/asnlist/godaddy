@@ -1,0 +1,199 @@
+{
+	"name": "GoDaddy",
+	"asn": [
+	{
+		"value": "AS26496",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS397514",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS397515",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS397516",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS397517",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS397518",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS397519",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS397522",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398101",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398104",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398105",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398105",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398109",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398785",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398786",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398787",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398788",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS398789",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS400749",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS400753",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	{
+		"value": "AS400754",
+		"company": "GoDaddy.com, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "godaddy.com"
+	},
+	]
+}
+/*
+AS16892
+AS31815
+AS133882
+AS397513
+AS397520
+AS397521
+AS398102
+AS398103
+AS398106
+AS398107
+AS398108
+AS398110
+AS398790
+AS398791
+AS398792
+AS398793
+AS398794
+AS400746
+AS400747
+AS400748
+AS400750
+AS400751
+AS400752
+AS400755
+*/

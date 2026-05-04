@@ -1,0 +1,101 @@
+{
+	"name": "Kametera, FastComet, Hosting",
+	"asn": [
+	{
+		"value": "AS14670",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS36218",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS36454",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS51713",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS199404",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS204800",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS209341",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS211912",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS213183",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS216180",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS211126",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	},
+	{
+		"value": "AS212660",
+		"company": "WHG Hosting Services Ltd",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosting.com"
+	} //"AS18015"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Arelion",
+	"asn": [
+		{
+			"value": "AS1299",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "arelion.com"
+		},
+		{
+			"value": "AS1833",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "arelion.com"
+		},
+		{
+			"value": "AS7589",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "arelion.com"
+		},
+		{
+			"value": "AS8233",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "arelion.com"
+		},
+		{
+			"value": "AS8532",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Inactive",
+			"registry": "RIPE",
+			"website": "arelion.com"
+		},
+		{
+			"value": "AS8837",
+			"company": "Arelion Sweden AB",
+			"country": "se",
+			"type": "Hosting",
+			"registry": "RIPE",
+			"website": "arelion.com"
+		}
+	]
+}

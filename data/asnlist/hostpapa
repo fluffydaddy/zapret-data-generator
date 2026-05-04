@@ -1,0 +1,52 @@
+{
+	"name": "HostPapa",
+	"asn": [
+	{
+		"value": "AS11989",
+		"company": "HostPapa",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "hostpapa.com"
+	},
+	{
+		"value": "AS23273",
+		"company": "HostPapa",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "hostpapa.com"
+	},
+	{
+		"value": "AS36352",
+		"company": "HostPapa",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "colocrossing.com"
+	},
+	{
+		"value": "AS40092",
+		"company": "HostPapa",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "hostpapa.com"
+	},
+	{
+		"value": "AS394738",
+		"company": "HostPapa",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "svwh.net"
+	}
+	]
+}
+/*
+AS15244
+AS18650
+AS19549
+AS32241
+AS40561
+*/

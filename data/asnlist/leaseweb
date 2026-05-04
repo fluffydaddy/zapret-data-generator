@@ -1,0 +1,29 @@
+{
+	"name": "LeaseWeb",
+	"asn": [
+	{
+		"value": "AS32613",
+		"company": "Leaseweb Canada Inc.",
+		"country": "ca",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "leaseweb.ca"
+	},
+	{
+		"value": "AS134351",
+		"company": "Leaseweb Japan K.K.",
+		"country": "jp",
+		"type": "Hosting",
+		"registry": "APNIC",
+		"website": "leaseweb.com"
+	},
+	{
+		"value": "AS136988",
+		"company": "LEASEWEB AUSTRALIA PTY LIMITED",
+		"country": "au",
+		"type": "Hosting",
+		"registry": "APNIC",
+		"website": "leaseweb.com"
+	}
+	]
+}

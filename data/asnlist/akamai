@@ -1,0 +1,389 @@
+{
+	"name": "Akamai",
+	"asn": [
+	{
+		"value": "AS12222",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS16625",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS16702",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS17204",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS17334",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS18680",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS18717",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS20189",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS20940",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS21342",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS21357",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS21399",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS22207",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS22452",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS23454",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS23455",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS23903",
+		"company": "Akamai Banglore Office ASN",
+		"country": "in",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS24319",
+		"company": "Akamai Technologies Tokyo ASN",
+		"country": "sg",
+		"type": "Hosting",
+		"registry": "APNIC",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS26008",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS30675",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS31107",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS31108",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS31109",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS31110",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS31377",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS31984",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS32787",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS33047",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS33905",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS34164",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS34850",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS35204",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS35993",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS35994",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS36029",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS36183",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS39836",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS43639",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS48163",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS49249",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS49846",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS55409",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS55770",
+		"company": "Akamai Technologies, Inc.",
+		"country": "sg",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS133103",
+		"company": "Akamai Technologies, Inc.",
+		"country": "sg",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS200005",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "asavie.com"
+	},
+	{
+		"value": "AS213120",
+		"company": "Akamai International B.V.",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS393560",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS393234",
+		"company": "Akamai Technologies, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "akamai.com"
+	},
+	] // AS25019, AS18209, AS15802, AS12400
+}

@@ -1,0 +1,78 @@
+{
+	"name": "Constant / Vultr",
+	"asn": [
+	{
+		"value": "AS20473",
+		"company": "The Constant Company, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "constant.com"
+	},
+	{
+		"value": "AS46407",
+		"company": "The Constant Company, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "constant.com"
+	}
+	]
+}
+/*
+DE-CIX
+
+Active
+AS51531
+AS61374
+AS196610
+AS205530
+AS214292
+
+Inactive
+AS6695
+AS20715
+AS20717
+AS25083
+AS43252
+AS43729
+AS47228
+AS48793
+AS56890
+AS57769
+AS57802
+AS57891
+AS198116
+AS200225
+AS200779
+AS201410
+AS201526
+AS201537
+AS201560
+AS201561
+AS203341
+AS203524
+AS203994
+AS204034
+AS204663
+AS204682
+AS205529
+AS205818
+AS206780
+AS207334
+AS207926
+AS210586
+AS212723
+AS214622
+
+*/
+
+/*
+Constant
+
+AS11508
+AS40504
+AS54094
+AS64515
+AS133795
+*/

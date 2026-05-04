@@ -1,0 +1,22 @@
+{
+	"name": "Incapsula / Imperva",
+	"asn": [
+	{
+		"value": "AS19551",
+		"company": "Incapsula Inc",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "incapsula.com"
+	},
+	{
+		"value": "AS62571",
+		"company": "IMPERVA INC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "impreva.com"
+	}
+	]
+}
+//AS14960

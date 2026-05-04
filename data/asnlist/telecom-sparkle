@@ -1,0 +1,13 @@
+{
+	"name": "TelecomSparkle",
+	"asn": [
+	{
+		"value": "AS6762",
+		"company": "TELECOM ITALIA SPARKLE S.p.A.",
+		"country": "it",
+		"type": "ISP",
+		"registry": "RIPE",
+		"website": "ti-sparkle.it"
+	}
+	]
+}

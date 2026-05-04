@@ -1,0 +1,67 @@
+{
+	"name": "DigitalOcean",
+	"asn": [
+	{
+		"value": "AS14061",
+		"company": "DigitalOcean, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "digitalocean.com"
+	},
+	{
+		"value": "AS62567",
+		"company": "DigitalOcean, LLC",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "digitalocean.com"
+	},
+	{
+		"value": "AS133165",
+		"company": "Digital Ocean, Inc.",
+		"country": "sg",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "digitalocean.com"
+	},
+	{
+		"value": "AS135340",
+		"company": "Digital Ocean, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "digitalocean.com"
+	},
+	{
+		"value": "AS394362",
+		"company": "DigitalOcean, LLC",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "digitalocean.com"
+	},
+	{
+		"value": "AS393406",
+		"company": "DigitalOcean, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "digitalocean.com"
+	},
+	{
+		"value": "AS46652",
+		"company": "DigitalOcean, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "digitalocean.com"
+	}
+		//"AS39690", // SC ITNS.NET SRL
+		//"AS200130", // Simon Mariacher /* Inactive */
+		//"AS201229", // Netcon IT Solutions GmbH /* Inactive */
+		//"AS202018", // Servinet Sistemas y Comunicacion S.L.
+		//"AS202109", // ROBOK LLC /* Inactive */
+		//"AS205301", // Contrust Solutions S.R.L. /* Inactive */
+	]
+}

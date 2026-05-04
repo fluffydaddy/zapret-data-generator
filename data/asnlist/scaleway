@@ -1,0 +1,12 @@
+{
+	"name": "Scaleway",
+	"asn": {
+		"value": "AS12876",
+		"company": "Scaleway SAS",
+		"country": "fr",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "scaleway.com"
+	}
+	// Maybe AS202023, AS205537, AS29447, AS54265
+}

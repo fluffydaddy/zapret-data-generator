@@ -1,0 +1,349 @@
+{
+	"name": "Verizon",
+	"asn": [
+		{
+			"value": "AS701",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS702",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS703",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS1321",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS1326",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS1387",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS1661",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS1689",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS1699",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS2828",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3369",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3371",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3372",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3373",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3374",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3375",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3376",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3377",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3378",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS3620",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS4183",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS6167",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS6256",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS6976",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS6984",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS6995",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS7014",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS7021",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS7046",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS8112",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS11303",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS11145",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS12079",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS12234",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS13662",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS13671",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS14551",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS17373",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS18461",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS18573",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS22394",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS33052",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		},
+		{
+			"value": "AS46639",
+			"company": "Verizon Business",
+			"country": "us",
+			"type": "ISP",
+			"registry": "ARIN",
+			"website": "verizonbusiness.com"
+		}
+	]
+}

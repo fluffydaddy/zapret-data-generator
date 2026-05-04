@@ -1,0 +1,30 @@
+{
+	"name": "Datacamp / CDN77", // Datacamp Limited, CDN77, DataPacket, KeyCDN, Proton
+	"asn": [
+	{
+		"value": "AS60068",
+		"company": "Datacamp Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "cdn77.com"
+	},
+	{
+		"value": "AS211612",
+		"company": "Datacamp Limited",
+		"country": "gb",
+		"type": "ISP",
+		"registry": "RIPE",
+		"website": "cdn77.com"
+	},
+	{
+		"value": "AS212238",
+		"company": "Datacamp Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "datacamp.co.uk"
+	}
+	]
+}
+//AS215989

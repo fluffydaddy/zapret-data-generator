@@ -1,0 +1,38 @@
+{
+	// Discord used
+	"name": "I3DNET",
+	"asn": [
+	{
+		"value": "AS41031",
+		"company": "i3D.net B.V",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "i3d.net"
+	},
+	{
+		"value": "AS49544",
+		"company": "i3D.net B.V",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "i3d.net"
+	},
+	{
+		"value": "AS57088",
+		"company": "i3D.net B.V",
+		"country": "nl",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "i3d.net"
+	},
+	{
+		"value": "AS206570",
+		"company": "i3D.net B.V",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "i3d.net"
+	}
+	]
+}

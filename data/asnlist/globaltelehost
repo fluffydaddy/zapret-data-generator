@@ -1,0 +1,21 @@
+{
+	"name": "GlobalTeleHost",
+	"asn": [
+	{
+		"value": "AS62563",
+		"company": "GLOBALTELEHOST Corp.",
+		"country": "ca",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "gthost.com"
+	},
+	{
+		"value": "AS63023",
+		"company": "GTHost",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "gthost.com"
+	}
+	]
+}

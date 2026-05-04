@@ -1,0 +1,549 @@
+{
+	"name": "Oracle",
+	"asn": [
+	{
+		"value": "AS90",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS792",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS793",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS794",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS1215",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS1216",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS1217",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS1218",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS1219",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS1630",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS3457",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS4184",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS4191",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS4192",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS6142",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS7160",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS10884",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS11049",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS11479",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS11506",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS11625",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS11887",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS13832",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS14506",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS14544",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS14919",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS15135",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS15179",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS15519",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS18837",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS18916",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS20037",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS20054",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS22435",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS23885",
+		"company": "Oracle Corporation",
+		"country": "jp",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS24185",
+		"company": "Oracle Corporation",
+		"country": "in",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS29976",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS31898",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS31925",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS33517",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS34135",
+		"company": "Oracle America Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "sun.com"
+	},
+	{
+		"value": "AS36282",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS38538",
+		"company": "Oracle India Developement Centre.",
+		"country": "in",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS39467",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS40921",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS43894",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS43898",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS46403",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS46558",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS52019",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS54253",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS57748",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS60285",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS63295",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS64102",
+		"company": "Oracle Corporation",
+		"country": "cr",
+		"type": "Inactive",
+		"registry": "LACNIC",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS136025",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS200705",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS200981",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS203267",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS206209",
+		"company": "Oracle Svenska AB",
+		"country": "se",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS393218",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS393314",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS393676",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS393773",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS395010",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS395738",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS399966",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	},
+	{
+		"value": "AS401341",
+		"company": "Oracle Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "oracle.com"
+	}
+	]
+}

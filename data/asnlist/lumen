@@ -1,0 +1,110 @@
+// AS199653 / KeyCDN
+{
+	"name": "Lumen / Level3",
+	"asn": [
+	{
+		"value": "AS1",
+		"company": "Level 3 Parent, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "level3.com"
+	},
+	{
+		"value": "AS202",
+		"company": "Level 3 Parent, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "level3.com"
+	},
+	{
+		"value": "AS203",
+		"company": "Level 3 Parent, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "level3.com"
+	},
+	{
+		"value": "AS596",
+		"company": "Level 3 Parent, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "level3.com"
+	},
+	{
+		"value": "AS3356",
+		"company": "Level 3 Parent, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "lumen.com"
+	},
+	{
+		"value": "AS3549",
+		"company": "Level 3 Parent, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "lumen.com"
+	},
+	{
+		"value": "AS10753",
+		"company": "Level 3 Parent, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "level3.com"
+	},
+	{
+		"value": "AS18756",
+		"company": "Level 3 Parent, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "level3.com"
+	},
+	{
+		"value": "AS19094",
+		"company": "Level 3 Parent, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "level3.com"
+	}
+	]
+}
+/*
+AS189
+AS199
+AS200
+AS201
+AS279
+AS281
+AS560
+AS594
+AS595
+AS596
+AS597
+AS598
+AS2551
+AS3508
+AS3831
+AS4323
+AS6395
+AS6467
+AS6484
+AS7176
+AS8043
+AS11213
+AS16852
+AS19591
+AS19962
+AS20476
+AS22026
+AS26458
+AS30686
+AS32421
+*/

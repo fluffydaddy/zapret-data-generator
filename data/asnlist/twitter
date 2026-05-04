@@ -1,0 +1,37 @@
+{
+	"name": "Twitter (X)",
+	"asn": [
+	{
+		"value": "AS13414",
+		"company": "Twitter Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "twitter.com"
+	},
+	{
+		"value": "AS35995",
+		"company": "Twitter Inc.",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "twitter.com"
+	},
+	{
+		"value": "AS54888",
+		"company": "Twitter Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "twitter.com"
+	},
+	{
+		"value": "AS63179",
+		"company": "Twitter Inc.",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "twitter.com"
+	}
+	]
+}

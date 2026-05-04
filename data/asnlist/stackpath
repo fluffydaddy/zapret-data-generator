@@ -1,0 +1,21 @@
+{
+	"name": "StackPath",
+	"asn": [
+	{
+		"value": "AS20446",
+		"company": "Dukelana", // StackPath ABC, LLC
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "dukelana.net" // stackpath.com
+	},
+	{
+		"value": "AS33438",
+		"company": "Datum",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "stackpath.com"
+	}
+	] // AS202384
+}

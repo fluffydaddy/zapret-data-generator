@@ -1,0 +1,11 @@
+{
+	"name": "Workonline Communications",
+	"asn": {
+		"value": "AS37271",
+		"company": "Workonline Communications(Pty) Ltd",
+		"country": "za",
+		"type": "ISP",
+		"registry": "AFRINIC",
+		"website": "workonline.africa"
+	}
+}

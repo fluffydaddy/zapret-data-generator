@@ -1,0 +1,46 @@
+{
+	"name": "Meta (Facebook, Instagram, Whatsapp)",
+	"asn": [
+	{
+		"value": "AS11917",
+		"company": "Whatsapp",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "whatsapp.com"
+	},
+	{
+		"value": "AS32934",
+		"company": "Facebook, Inc.",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "facebook.com"
+	},
+	{
+		"value": "AS54115",
+		"company": "Facebook Inc",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "facebook.com"
+	},
+	{
+		"value": "AS63293",
+		"company": "Facebook, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "facebook.com"
+	},
+	{
+		"value": "AS149642",
+		"company": "Facebook Singapore Pte Ltd.",
+		"country": "sg",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "fb.com"
+	}
+	]
+}
+//AS34825

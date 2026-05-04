@@ -1,0 +1,22 @@
+{
+	"name": "Fastly",
+	"asn": [
+	{
+		"value": "AS895",
+		"company": "Fastly, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "fastly.com"
+	},
+	{
+		"value": "AS54113",
+		"company": "Fastly, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "fastly.com"
+	}
+	]
+}
+//AS394192

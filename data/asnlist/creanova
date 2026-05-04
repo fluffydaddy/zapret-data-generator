@@ -1,0 +1,21 @@
+{
+	"name": "CreaNova",
+	"asn": [
+	{
+		"value": "AS51765",
+		"company": "Oy Creanova Hosting Solutions Ltd.",
+		"country": "fi",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "creanova.org"
+	},
+	{
+		"value": "AS204187",
+		"company": "Oy Creanova Hosting Solutions Ltd.",
+		"country": "fi",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "creanova.org"
+	}
+	]
+}

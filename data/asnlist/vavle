@@ -1,0 +1,11 @@
+{
+	"name": "Valve",
+	"asn": {
+		"value": "AS32590",
+		"company": "Valve Corporation",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "valvesoftware.com"
+	}
+}

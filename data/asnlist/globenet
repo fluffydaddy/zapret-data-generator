@@ -1,0 +1,11 @@
+{
+	"name": "GlobeNet",
+	"asn": {
+		"value": "AS52320",
+		"company": "GlobeNet Cabos Submarinos Colombia, S.A.S.",
+		"country": "co",
+		"type": "Hosting",
+		"registry": "LACNIC",
+		"website": "vtal.com"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Linode",
+	"asn": [
+	{
+		"value": "AS48337",
+		"company": "Linode, LLC",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "akamai.com"
+	},
+	{
+		"value": "AS63949",
+		"company": "Akamai Connected Cloud",
+		"country": "sg",
+		"type": "Hosting",
+		"registry": "APNIC",
+		"website": "linode.com"
+	},
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "CacheFly",
+	"asn": {
+		"value": "AS30081",
+		"company": "CacheFly",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "cachefly.com"
+	}
+}

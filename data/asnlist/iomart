@@ -1,0 +1,22 @@
+{
+	"name": "Iomart Cloud",
+	"asn": [
+	{
+		"value": "AS20860",
+		"company": "IOMART CLOUD SERVICES LIMITED",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "iomart.com"
+	},
+	{
+		"value": "AS21130",
+		"company": "IOMART CLOUD SERVICES LIMITED",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "iomart.com"
+	}
+	]
+}
+//AS29131

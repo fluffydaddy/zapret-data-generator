@@ -12,10 +12,10 @@ def main():
     run_generator(["hostlist", "list-general.template", "list-general.txt"])
 
     # 2. ASN parser
-    asparser.main()
+    asparser.run()
 
     # 3. ipset
-    run_generator(["ipset", "ipset-all.template", "ipset-all.txt"])
+    #run_generator(["ipset", "ipset-all.template", "ipset-all.txt"])
 
 if __name__ == "__main__":
     main()

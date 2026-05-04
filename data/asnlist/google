@@ -1,0 +1,37 @@
+{
+	"name": "Google Cloud",
+	"asn": [
+	{
+		"value": "AS15169",
+		"company": "Google LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "google.com"
+	},
+	{
+		"value": "AS396982",
+		"company": "Google LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "google.com"
+	},
+	{
+		"value": "AS19527",
+		"company": "Google LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "google.com"
+	},
+	{
+		"value": "AS139070",
+		"company": "Google Asia Pacific Pte. Ltd.",
+		"country": "sg",
+		"type": "Hosting",
+		"registry": "APNIC",
+		"website": "google.com"
+	}
+	]
+}

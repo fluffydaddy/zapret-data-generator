@@ -1,0 +1,37 @@
+{
+	"name": "Edgio",
+	"asn": [
+		{
+			"value": "AS14153",
+			"company": "Edgecast Inc.",
+			"country": "us",
+			"type": "Inactive",
+			"registry": "ARIN",
+			"website": "uplynk.com"
+		},
+		{
+			"value": "AS14210",
+			"company": "Edgecast Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "uplynk.com"
+		},
+		{
+			"value": "AS15133",
+			"company": "Edgecast Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "APNIC",
+			"website": "edgecast.io"
+		},
+		{
+			"value": "AS22843",
+			"company": "Proofpoint, Inc.",
+			"country": "us",
+			"type": "Hosting",
+			"registry": "ARIN",
+			"website": "proofpoint.com"
+		}
+	]
+}

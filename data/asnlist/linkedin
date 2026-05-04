@@ -1,0 +1,93 @@
+{
+	"name": "Linkedin",
+	"asn": [
+	{
+		"value": "AS13443",
+		"company": "LinkedIn Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS14413",
+		"company": "LinkedIn Corporation",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS20049",
+		"company": "LinkedIn Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS20366",
+		"company": "LinkedIn Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS30427",
+		"company": "LinkedIn Corporation",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS40793",
+		"company": "LinkedIn Corporation",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS55163",
+		"company": "LinkedIn Corporation",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS132406",
+		"company": "8 Shenton Way",
+		"country": "sg",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS132466",
+		"company": "Linkedin Singapore Pte. Ltd",
+		"country": "sg",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS137709",
+		"company": "Beijing LinkedIn Information Technology Co.,Ltd",
+		"country": "cn",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "linkedin.com"
+	},
+	{
+		"value": "AS202745",
+		"company": "LinkedIn Austria GmbH",
+		"country": "au",
+		"type": "Business",
+		"registry": "RIPE",
+		"website": "linkedin.com"
+	}
+	]
+}

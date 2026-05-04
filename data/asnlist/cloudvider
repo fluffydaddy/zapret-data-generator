@@ -1,0 +1,79 @@
+{
+	"name": "Cloudvider",
+	"asn": [
+	{
+		"value": "AS34202",
+		"company": "Clouvider Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "clouvider.com"
+	},
+	{
+		"value": "AS62240",
+		"company": "Clouvider Limited",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "clouvider.com"
+	},
+	{
+		"value": "AS202791",
+		"company": "Clouvider Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "clouvider.com"
+	},
+	{
+		"value": "AS202792",
+		"company": "Clouvider Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "clouvider.com"
+	},
+	{
+		"value": "AS206136",
+		"company": "Clouvider Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "clouvider.com"
+	},
+	{
+		"value": "AS206822",
+		"company": "Clouvider Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "clouvider.com"
+	},
+	{
+		"value": "AS207019",
+		"company": "Clouvider Limited",
+		"country": "gb",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "clouvider.com"
+	},
+	{
+		"value": "AS214578",
+		"company": "Clouvider Europe B.V.",
+		"country": "nl",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "clouvider.com"
+	}
+	]
+}
+/*
+AS24669
+AS35545
+AS42902
+AS43878
+AS206144
+AS206848
+AS206986
+AS401881
+*/

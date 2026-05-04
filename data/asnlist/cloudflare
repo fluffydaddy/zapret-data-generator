@@ -1,0 +1,94 @@
+{
+	// WPEngine, Inc - AS209242
+	"name": "CloudFlare",
+	"asn": [
+	{
+		"value": "AS13335",
+		"company": "Cloudflare, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS14789",
+		"company": "Cloudflare, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS132892",
+		"company": "Cloudflare, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "APNIC",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS133877",
+		"company": "Cloudflare, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS139242",
+		"company": "Cloudflare Sydney, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "APNIC",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS202623",
+		"company": "Cloudflare Inc",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS203898",
+		"company": "Cloudflare Inc",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS209242",
+		"company": "Cloudflare London, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS394536",
+		"company": "Cloudflare, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS395747",
+		"company": "Cloudflare, Inc.",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "cloudflare.com"
+	},
+	{
+		"value": "AS400095",
+		"company": "Cloudflare, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "cloudflare.com"
+	}
+	]
+}

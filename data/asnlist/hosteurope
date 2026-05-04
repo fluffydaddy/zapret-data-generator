@@ -1,0 +1,69 @@
+{
+	"name": "HostEurope",
+	"asn": [
+	{
+		"value": "AS8972",
+		"company": "Host Europe GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosteurope.de"
+	},
+	{
+		"value": "AS20773",
+		"company": "Host Europe GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosteurope.de"
+	},
+	{
+		"value": "AS21499",
+		"company": "Host Europe GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosteurope.de"
+	},
+	{
+		"value": "AS34011",
+		"company": "Host Europe GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosteurope.de"
+	},
+	{
+		"value": "AS44273",
+		"company": "Host Europe GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosteurope.de"
+	},
+	{
+		"value": "AS60253",
+		"company": "Host Europe GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "hosteurope.de"
+	}
+	]
+}
+/*
+AS15891
+AS21501
+AS31100
+AS34088
+AS34289
+AS34440
+AS35329
+AS39779
+AS43788
+AS44497
+AS50932
+AS62087
+AS198047
+AS199960
+*/

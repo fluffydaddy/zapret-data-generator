@@ -1,0 +1,221 @@
+{
+	"name": "Amazon, Twitch, Slack",
+	"asn": [
+	{
+		"value": "AS699",
+		"company": "Amazon Technologies Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS801",
+		"company": "Amazon Technologies Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS7224",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS8987",
+		"company": "Amazon.com, Inc.",
+		"country": "ie",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS9059",
+		"company": "Amazon Data Services Ireland Ltd",
+		"country": "ie",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS10124",
+		"company": "Amazon Data Services Japan KK",
+		"country": "jp",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS10291",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS14618",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS16509",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS17493",
+		"company": "Amazon Asia-Pacific Resources Private Limited",
+		"country": "sg",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS19047",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS21664",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS36263",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS38895",
+		"company": "Amazon.com Tech Telecom",
+		"country": "jp",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS39111",
+		"company": "Amazon Data Services Ireland Ltd",
+		"country": "ie",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS40045",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS46489",
+		"company": "Twitch Interactive Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "twitch.tv"
+	},
+	{
+		"value": "AS58588",
+		"company": "Amazon Corporate Services",
+		"country": "au",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS62785",
+		"company": "Amazon.com Services, LLC",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS63088",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS135630",
+		"company": "Amazon Connection Technology Services (Beijing) Co., LTD",
+		"country": "cn",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS154263",
+		"company": "Amazon Corporate Services Pty Ltd",
+		"country": "au",
+		"type": "Inactive",
+		"registry": "APNIC",
+		"website": "amazon.com.au"
+	},
+	{
+		"value": "AS397153",
+		"company": "Twitch Interactive Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "twitch.tv"
+	},
+	{
+		"value": "AS399834",
+		"company": "Amazon.com, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS399991",
+		"company": "Amazon Web Services, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS400098",
+		"company": "Amazon Technologies Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	},
+	{
+		"value": "AS401395",
+		"company": "Amazon Technologies Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "amazon.com"
+	}
+	]
+}

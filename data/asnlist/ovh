@@ -1,0 +1,25 @@
+{
+	"name": "OVH",
+	"asn": [
+	{
+		"value": "AS16276",
+		"company": "OVH SAS",
+		"country": "fr",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "ovhcloud.com"
+	},
+	{
+		"value": "AS35540",
+		"company": "OVH SAS",
+		"country": "fr",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "ovh.fr"
+	}
+		//"AS21808"
+		//"AS206092"
+		//"AS197042" // AKTIF YATIRIM BANKASI ANONIM SIRKETI, tr, Business, RIPE
+		//"AS197043" // Unassigned /* Inactive */
+	]
+}

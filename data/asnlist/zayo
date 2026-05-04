@@ -1,0 +1,11 @@
+{
+	"name": "Zayo",
+	"asn": {
+		"value": "AS6461",
+		"company": "Zayo Bandwidth",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "zayo.com"
+	}
+}

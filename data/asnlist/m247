@@ -1,0 +1,22 @@
+{
+	"name": "M247 Europe",
+	"asn": [
+	{
+		"value": "AS9009",
+		"company": "M247 Europe SRL",
+		"country": "ro",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "m247global.com"
+	},
+	{
+		"value": "AS51332",
+		"company": "M247 Europe SRL",
+		"country": "ro",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "m247.ro"
+	}
+	]
+	// AS39675, AS33970
+}

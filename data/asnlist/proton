@@ -1,0 +1,37 @@
+{
+	"name": "Proton",
+	"asn": [
+	{
+		"value": "AS62371",
+		"company": "Proton AG",
+		"country": "ch",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "proton.me"
+	},
+	{
+		"value": "AS208172",
+		"company": "Proton AG",
+		"country": "ch",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "proton.ch"
+	},
+	{
+		"value": "AS199218",
+		"company": "Proton AG",
+		"country": "ch",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "proton.ch"
+	},
+	{
+		"value": "AS209103",
+		"company": "Proton AG",
+		"country": "ch",
+		"type": "ISP",
+		"registry": "RIPE",
+		"website": "proton.me"
+	}
+	]
+}

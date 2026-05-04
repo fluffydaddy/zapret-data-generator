@@ -1,0 +1,69 @@
+{
+	"name": "GTT",
+	"asn": [
+	{
+		"value": "AS3257",
+		"company": "GTT Communications Inc.",
+		"country": "us",
+		"type": "ISP",
+		"registry": "RIPE",
+		"website": "gtt.com"
+	},
+	{
+		"value": "AS5580",
+		"company": "GTT Communications Netherlands B.V.",
+		"country": "nl",
+		"type": "ISP",
+		"registry": "RIPE",
+		"website": "gtt.net"
+	},
+	{
+		"value": "AS286",
+		"company": "GTT Communications Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "RIPE",
+		"website": "gtt.net"
+	},
+	{
+		"value": "AS260",
+		"company": "GTT Americas, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "gtt.net"
+	},
+	{
+		"value": "AS5669",
+		"company": "GTT Americas, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "gtt.net"
+	},
+	{
+		"value": "AS6267",
+		"company": "GTT Americas, LLC",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "gtt.net"
+	},
+	{
+		"value": "AS8190",
+		"company": "GTT Americas, LLC",
+		"country": "us",
+		"type": "Business",
+		"registry": "ARIN",
+		"website": "easynet.com"
+	},
+	{
+		"value": "AS8928",
+		"company": "GTT Communications Inc.",
+		"country": "us",
+		"type": "ISP",
+		"registry": "RIPE",
+		"website": "gtt.net"
+	}
+	]
+}

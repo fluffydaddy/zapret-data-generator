@@ -1,0 +1,122 @@
+{
+	"name": "NTT",
+	"asn": [
+	{
+		"value": "AS93",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS97",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS262",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS275",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS1225",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS2914",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS3938",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS3939",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "Inactive",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS3949",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS4713",
+		"company": "NTT DOCOMO BUSINESS,Inc.",
+		"country": "jp",
+		"type": "ISP",
+		"registry": "JPNIC",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS7019",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "ISP",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	},
+	{
+		"value": "AS11158",
+		"company": "NTT America, Inc.",
+		"country": "us",
+		"type": "Hosting",
+		"registry": "ARIN",
+		"website": "ntt.com"
+	}
+	]
+}
+/*
+AS114
+AS253
+AS263
+AS280
+AS685
+AS3150
+AS3844
+AS3934
+AS3936
+AS3937
+AS3940
+AS3941
+AS3942
+AS3945
+AS3946
+AS3947
+AS3948
+AS6944
+AS20110
+*/

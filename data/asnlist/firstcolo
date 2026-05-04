@@ -1,0 +1,11 @@
+{
+	"name": "Firstcolo",
+	"asn": {
+		"value": "AS44066",
+		"company": "firstcolo GmbH",
+		"country": "de",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "firstcolo.net"
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"name": "Melbicom (Melbikomas UAB)",
+	"asn": [
+	{
+		"value": "AS8849",
+		"company": "Melbikomas UAB",
+		"country": "lt",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "melbicom.net"
+	},
+	{
+		"value": "AS44571",
+		"company": "Melbikomas UAB",
+		"country": "lt",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "netvillage.solutions"
+	},
+	{
+		"value": "AS49287",
+		"company": "Melbikomas UAB",
+		"country": "lt",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "melbicom.net"
+	},
+	{
+		"value": "AS56630",
+		"company": "Melbikomas UAB",
+		"country": "lt",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "melbicom.net"
+	},
+	{
+		"value": "AS50098",
+		"company": "Melbikomas UAB",
+		"country": "lt",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "melbi.space"
+	}
+	]
+}

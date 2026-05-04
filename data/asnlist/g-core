@@ -1,0 +1,37 @@
+{
+	"name": "G-Core Labs",
+	"asn": [
+	{
+		"value": "AS59245",
+		"company": "G-Core Labs S.A",
+		"country": "sg",
+		"type": "Hosting",
+		"registry": "APNIC",
+		"website": "gcore.com"
+	},
+	{
+		"value": "AS199524",
+		"company": "G-Core Labs S.A.",
+		"country": "lu",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "gcore.com"
+	},
+	{
+		"value": "AS202422",
+		"company": "G-Core Labs S.A.",
+		"country": "lu",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "gcore.com"
+	},
+	{
+		"value": "AS210559",
+		"company": "G-Core Labs S.A.",
+		"country": "lu",
+		"type": "Hosting",
+		"registry": "RIPE",
+		"website": "gcore.com"
+	}
+	]
+}
